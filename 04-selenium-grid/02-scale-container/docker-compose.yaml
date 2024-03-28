@@ -1,0 +1,29 @@
+version: '3'
+services:
+  hub:
+    image: selenium/hub:4.10
+    ports:
+    - 4444:4444
+  chrome:
+    image: selenium/node-chrome:4.10
+    shm_size: '2g'
+    depends_on:
+    - hub
+    deploy:
+      replicas: 4        #this means we are creating 4 chrome container, by default replica is 1
+    environment:
+    - SE_EVENT_BUS_HOST=hub    #So here we need to put environment variable as it is required so that chrome container can talk with hub     
+    - SE_EVENT_BUS_PUBLISH_PORT=4442   #ALL THIS INFORMATION IS PRESENT ON SELENIUM GRID OFFICIAL PAGE
+    - SE_EVENT_BUS_SUBSCRIBE_PORT=4443                                
+  firefox:
+    image: selenium/node-firefox:4.10
+    shm_size: '2g'
+    depends_on:
+    - hub
+    deploy:
+      replicas: 0   #this means we dont want any other firefox browser
+    environment:
+    - SE_EVENT_BUS_HOST=hub    
+    - SE_EVENT_BUS_PUBLISH_PORT=4442  #This publish port is used to register the node om this port with the hub
+    - SE_EVENT_BUS_SUBSCRIBE_PORT=4443 #This subscribe port is used to get the information from the hub
+

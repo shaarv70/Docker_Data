@@ -1,0 +1,44 @@
+pipeline{
+
+      agent any
+      environment {
+          NUMBER=3     //it will be global to all the stages OR AT PIPELINE LEVEL
+      }
+
+      stages{
+
+          stage('stage-1'){
+              steps{
+                    echo "doing mvn clean"
+                    echo "Number is= ${NUMBER}"    //Double quotes are must then it will consider the
+                                                     environment variable values if we use single quote, then
+                                                     it will only just consider it as a string
+              }
+
+          }
+           stage('stage-2'){
+               environment{
+               NUMBER=6       //we can also define environment variabe locally at stage level which
+               }                //will override pipeline level variable
+                steps{
+                     echo "Number is=${NUMBER}"
+              }
+
+           }
+            stage('stage-3'){
+               steps{
+                     echo "Number is= ${NUMBER}"
+               }
+
+            }
+
+      }
+
+     post{
+          always{
+               echo "doing clean up"
+          }
+
+     }
+
+}

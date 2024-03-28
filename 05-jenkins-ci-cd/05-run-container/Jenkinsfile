@@ -1,0 +1,45 @@
+pipeline{
+
+      agent any
+      environment {
+          NUMBER=3     //it will be global to all the stages OR AT PIPELINE LEVEL
+      }
+
+      stages{
+
+          stage('stage-1'){
+              steps{
+                    sh "docker run -e Number=${NUMBER} shaarv70/square"     //for mac or linux
+                    bat "docker run -e Number=${NUMBER} shaarv70/square"     //for windows (Since the node
+                                                                        in our case is our own machine so we will be using
+                                                                        bat as our m/c is windows)
+              }
+
+          }
+           stage('stage-2'){
+               environment{
+               NUMBER=6       //we can also define environment variabe locally at stage level which
+               }                //will override pipeline level variable
+                steps{
+                     bat "docker run -e Number=${NUMBER} shaarv70/square"
+              }
+
+           }
+            stage('stage-3'){
+               steps{
+                    bat "docker run -e Number=${NUMBER} shaarv70/square"
+               }
+
+            }
+
+      }
+
+     post{
+          always{
+                  echo "docker containers are up" //here trainer is using the command
+                  docker system prune -f
+          }
+
+     }
+
+}

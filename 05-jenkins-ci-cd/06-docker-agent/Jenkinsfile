@@ -1,0 +1,27 @@
+pipeline{
+
+      agent {
+           docker{
+                image "alpine"           #this means here our agent or node will be alpine which is having docker
+                                         installed but the main concept is node will be running this container which means
+                                         an agent will be running inside another agent
+                 }
+
+      }
+       stages{
+
+          stage('access-google-home'){
+              steps{
+
+                    bat "wget www.google.com"
+              }
+
+          }
+    }
+    post{
+         always{
+                  archiveArtifacts artifacts: 'index.html', followSymlinks: false
+         }
+    }
+
+}

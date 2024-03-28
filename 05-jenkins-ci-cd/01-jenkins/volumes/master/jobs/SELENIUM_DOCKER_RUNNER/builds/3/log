@@ -1,0 +1,91 @@
+Started by user [8mha:////4ANIlAc5Zd2sW2hBwzk1S3Qlo5nzEy/XkK2Ni/sZnIoWAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Obtained Jenkinsfile from git https://github.com/shaarv70/selenium-docker-runner.git
+[8mha:////4M3dLr5woqtNsOugnx0yxzuaKaZIQig0xa/JGL/7p4aYAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4DLQ4RbJu+N6RM0SdeM2P9LwKjrxQ8AVIP6EagNY37NvAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4KxkijZCCnJgcNwJgwPP44bhzruH7izLoC6z0E5wUtKBAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgYB/eT83ILSktQifT9/F1dDfQCjW1X2xQAAAA==[0mNODE1 in C:/Users/vasu/DockerPractice/05-jenkins-ci-cd/01-jenkins/volumes/node/workspace/SELENIUM_DOCKER_RUNNER
+[8mha:////4GoG6IhUC5m7Dd4s01zwdzJP9L71BWLgK9kxKIahfCdXAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4AlRHIwyu9erLgFDwy+poF66EEeEYiIJ4mfpYlOg/Fz3AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] stage
+[8mha:////4Az/7CCYRfwu3AEjFLLZkqJuEfFApI0wWiatY7cHGRcUAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] { (Declarative: Checkout SCM)
+[8mha:////4GgPuoM0Rl9hOymER4P2AB6vq9E7cE+gm/ZjdYnBz5kkAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaWGsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gfg7KmOvAAAAA==[0m[Pipeline] checkout
+Selected Git installation does not exist. Using Default
+The recommended git tool is: NONE
+No credentials specified
+Fetching changes from the remote Git repository
+Cleaning workspace
+ > git rev-parse --resolve-git-dir C:\Users\vasu\DockerPractice\05-jenkins-ci-cd\01-jenkins\volumes\node\workspace\SELENIUM_DOCKER_RUNNER\.git # timeout=10
+ > git config remote.origin.url https://github.com/shaarv70/selenium-docker-runner.git # timeout=10
+ > git rev-parse --verify HEAD # timeout=10
+Resetting working tree
+ > git reset --hard # timeout=10
+ > git clean -fdx # timeout=10
+Fetching upstream changes from https://github.com/shaarv70/selenium-docker-runner.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.42.0.windows.2'
+ > git fetch --tags --force --progress -- https://github.com/shaarv70/selenium-docker-runner.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+Checking out Revision c9abd897df926ce8db68e74b7aba8127a2f8ec9c (refs/remotes/origin/master)
+ > git rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+ > git config core.sparsecheckout # timeout=10
+Commit message: "Second commit"
+First time build. Skipping changelog.
+[8mha:////4JREUy7a1asc+mut6QFScdLYyZpY9doIy6NnOcPulHiiAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbGRNjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9Dg2gqvAAAAA==[0m[Pipeline] }
+ > git checkout -f c9abd897df926ce8db68e74b7aba8127a2f8ec9c # timeout=10
+[8mha:////4NCjstaDJL7LlLAQBCA9TESiayaTuQA4cTCK7+6iPEAeAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQRbWRhjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9J+wGOvAAAAA==[0m[Pipeline] // stage
+[8mha:////4Jb4yvQcyL0oKWiBknwwjWXzOC2FRODoraUyMh+DG6+xAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQDEh2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2G4+x/INtuQqUcEAAAA=[0m[Pipeline] withEnv
+[8mha:////4EXl3x6Lhvd0H0X9Yn6Ocp8JIeIrQh4w1tZtJ+86mY1FAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycoiUzoiJNerCCUITQtLo/zZJSSdOxNW4Ay2VmPBg2Zas93pDGQOcKBjuNHYWY2t570czJ54pdDdPmTu68pYwkte80bkhpc9rbShpWFUw2AjYamw9RYsmwU44+ZCVl2iqSwrzdhTArBrgCYWYyUmG9C1TgP19VJHwx/kLgKlPwOrDYvXyLD8BobDcwgAAAA==[0m[Pipeline] {
+[8mha:////4FUXd7OQU7SjppHd4c0lCqZ3flkqDxiqpnrQHd4wrl8NAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUZUVMrFEWThCaEJJG/7dJSjpxIq7GHWipxIQHy7ZkvdcbqhjgRMEwp7GzGFvLej+aObFMobt5yszRlbWEkbxmQmdBSp/XKihpWFWUsOGw1dh6ihZNgh138iFrL9HUlxTm7cihtGqAJxR8JicZ0rdMAfb3UUXCH+cvAKY+Qdk0ix2WZ/UBbwyqm8IAAAA=[0m[Pipeline] stage
+[8mha:////4HqBXByuwS7AiCfHeUS/ObGtJyn2D64Lf0ttEj49loWDAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUwIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfLdfrbD/Cw+y7kUycIAAAA=[0m[Pipeline] { (Run Test)
+[8mha:////4JFRqh64fICw4XmSwmCZ3R/S2aHJGidhmtoTAQGJTaNbAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiBB2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwZyu3uU/vwBgq0rvS+AAAA[0m[Pipeline] bat
+
+C:\Users\vasu\DockerPractice\05-jenkins-ci-cd\01-jenkins\volumes\node\workspace\SELENIUM_DOCKER_RUNNER>docker-compose up 
+ Container selenium_docker_runner-hub-1  Running
+ Container selenium_docker_runner-firefox-1  Running
+ Container selenium_docker_runner-chrome-1  Running
+ Container selenium_docker_runner-flight-reservation-1  Created
+ Container selenium_docker_runner-vendor-portal-1  Created
+Attaching to selenium_docker_runner-chrome-1, selenium_docker_runner-firefox-1, selenium_docker_runner-flight-reservation-1, selenium_docker_runner-hub-1, selenium_docker_runner-vendor-portal-1
+selenium_docker_runner-flight-reservation-1  | -------------------------------------------
+selenium_docker_runner-flight-reservation-1  | HUB_HOST      : hub
+selenium_docker_runner-flight-reservation-1  | BROWSER       : chrome
+selenium_docker_runner-flight-reservation-1  | THREAD_COUNT  : 4
+selenium_docker_runner-flight-reservation-1  | TEST_SUITE    : flight-reservation.xml
+selenium_docker_runner-flight-reservation-1  | runner.sh: line 2: : not found
+selenium_docker_runner-flight-reservation-1  | runner.sh: line 10: : not found
+selenium_docker_runner-flight-reservation-1  | -------------------------------------------
+selenium_docker_runner-flight-reservation-1  | Checking if hub is ready..!
+selenium_docker_runner-flight-reservation-1  | runner.sh: line 18: : not found
+selenium_docker_runner-flight-reservation-1  | runner.sh: line 47: syntax error: unexpected end of file (expecting "then")
+selenium_docker_runner-vendor-portal-1       | -------------------------------------------
+selenium_docker_runner-vendor-portal-1       | HUB_HOST      : hub
+selenium_docker_runner-vendor-portal-1       | BROWSER       : firefox
+selenium_docker_runner-vendor-portal-1       | THREAD_COUNT  : 3
+selenium_docker_runner-vendor-portal-1       | TEST_SUITE    : vendor-portal.xml
+selenium_docker_runner-vendor-portal-1       | -------------------------------------------
+selenium_docker_runner-vendor-portal-1       | Checking if hub is ready..!
+selenium_docker_runner-vendor-portal-1       | runner.sh: line 2: : not found
+selenium_docker_runner-vendor-portal-1       | runner.sh: line 10: : not found
+selenium_docker_runner-vendor-portal-1       | runner.sh: line 18: : not found
+selenium_docker_runner-vendor-portal-1       | runner.sh: line 47: syntax error: unexpected end of file (expecting "then")
+selenium_docker_runner-flight-reservation-1 exited with code 2
+selenium_docker_runner-vendor-portal-1 exited with code 2
+selenium_docker_runner-vendor-portal-1 exited with code 2
+Aborted by [8mha:////4ANIlAc5Zd2sW2hBwzk1S3Qlo5nzEy/XkK2Ni/sZnIoWAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Sending interrupt signal to process
+[8mha:////4Cxx2WHd6SxncVGd3G4mupqCjOd8KQppF4cq9eCCyFTcAAABAh+LCAAAAAAAAP9djLFOwzAURV9SwYwYERu7XQmJVkWd2khUhBQl7VyFYBwnxs/YL7QsfAS/URYkfoGP4AfYmBlYCMoEd7lnOef5E3a8gyk6ySphamV8oZjVjWyJrdHVNxrXzDfWoiPmSVjPlLENsct5tjh7sMJpZeoESey9916/Bt8fIQQx9BqnCfbjKr/Puc6N5Bk5ZeTpxsFh2Vx7NKxA41EL9qdyMt6+jJ/sWwjhDHa1MJLKLncHjxC0+sE/fdL9rwzdghBgY1tgBMERwaAksiPONRa5LtHTaNgf9nmFVzyL4iiZLS9W0/nkPEpX6TJJopQfcxLu9gdNTn1+HgEAAA==[0mClick here to forcibly terminate running steps
+canceled
+Terminate batch job (Y/N)? 
+script returned exit code 130
+[8mha:////4D5Yojcmz+ZHAWxpzqc0+dpQOonSIHadY89AnH+UIp72AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIihKgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7N7BnLt++AAAA[0m[Pipeline] }
+Terminating stage
+[8mha:////4GzLFmUY8lNfqb2gTeWsXY5FD2Q6JwcpeWGog628AbcQAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiKGgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7N4glvS6+AAAA[0m[Pipeline] // stage
+[8mha:////4CIjysNkAVDILusKffjLZS9uMOGO18zQtJAn3h/U56CeAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUnRgQE2uUhROEJoSk0f9tkpJOnIircQdaKjHhwbItWe/1hioGOFEwzGnsLMbWst6PZk4sU+hunjJzdGUtYSSvmdBZkNLntQpKGlYVJWw4bDW2nqJFk2DHnXzI2ks09SWFeTtyKK0a4AkFn8lJhvQtU4D9fVSR8Mf5C4CpT1A2zWKH5Vl9ANydZ8vCAAAA[0m[Pipeline] stage
+[8mha:////4CXKTq+eGIa/+qqyheC4p3VXK/7QZzqbBMoDjyNmeYwWAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUTCAhpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD0rlhNLCAAAA[0m[Pipeline] { (Bring Grid Down)
+Stage "Bring Grid Down" skipped due to earlier failure(s)
+[8mha:////4Bd7oqpWIFleGOdfGMNhFxp4vGcTxyagei2obKs7HnzlAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiOhCiSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7ndf2r3BkN+Pj++AAAA[0m[Pipeline] }
+[8mha:////4LDR6emaymUlm1D/O6LgsWyGz56av4XVlm4g803zPKmLAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICNBQoFa3lhheYxBgn1l2wHZyKF/E1/oBFJCq2WO1sM683LIOHmr3BTlNvKTQWBzeavDCx76+OE3Z8wYYpsNModZLc6tOMkqOGOUUJCwErTY3jYMlEWItOPVTlFJnqHH3+jgJK297hCYXI5qh8/MLkYXMb28D08/wVwDQMEcr9Ntfu8AGHKGa5vgAAAA==[0m[Pipeline] // stage
+[8mha:////4NcvKxgWrZnWeJ4FE7eZyjJBh86sJqnBMZD7P3wOgLxtAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPMJRaBEVreWGF5jEGDvWnbEvJBUv4mv8AYtIVGyx2tlmXm9Y5wRHSlZ4g4PD3DkRw2jLEhOl4RpoEp4uoiPMFIxQZlLUm9OCitjAkqqGlYSNwS5QdmgZttLrh26CRtucOZXvIKF2/R2eUMliZp34C3OC3W3sM+HP81cAc4wM9b4t1bYfF15Zm74AAAA=[0m[Pipeline] }
+[8mha:////4OiZkpr9Z50oXNmJXICkvNQQ+E2DQDlk/PUnoqwGpP2CAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICaRFVWisNLzCxMU6sO2M7JBUv4mv8AYtIVGyx2tlmXm9YxwAnDgZ7TYOl2Fn0bjR54cRhuDqesOcLdkyRncZWTy0r3SzYctKwpChhJWCjqXMcLZkEW9HLh6ycJFOdU8jfUUBp1R2eUIhsTjKkL8wBdrdRRaaf568AZu8TlHWd67D/AC8cymq+AAAA[0m[Pipeline] // withEnv
+[8mha:////4BMvD4b9+e/WiRdmENhB2AL5NQBQ3fgO8fX1tGU5CqS9AAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKRgA5R0VppeIFJjHFi3QX7QlLxIr7GH4iIRMVWO9PM641lijhydKqx1HpKlVdd6N301MCxvQYeVMMXVTElDlaVdii5tqcZSxaLeVmOhcbKUhU4eXKCtW7MwxTBkCvOEid30Mh9fccTmZ7KYqJ8YYzY3Po6Mf06fwMYu06Qb3eCbP8B+yNxE70AAAA=[0m[Pipeline] }
+[8mha:////4DJIk3h6Mb3+p69+BMQJNmBEoTfq2cl3CtiOTW5F4Hf+AAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKRgA5R0VppeIFJjHFi3QX7QlLxIr7GH4iIRMVWO9PM641lijhydKqx1HpKlVdd6N301MCxvQYeVMMXVTElDlaVdii5tqcZSxaLeVmOhcbKUhU4eXKCtW7MwxTBkCvOEid30Mh9fccTmZ7KYqJ8YYzY3Po6Mf06fwMYu06Qb/eCbPcBSGo1P70AAAA=[0m[Pipeline] // node
+[8mha:////4LCY4lcC6QgF7p/T6F165fsw55CMrd+WaR9NB+c4yNOUAAAAox+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6IkJE7GybVh8Qsq1Fpo3sP2IUx+kb/mP0gkcfJO95zlvN5Yp4gjR6daS52nVHvVh8HNT40cu2vgUbV8UTVT4mBVZceKG3tasGKxWJblWGlsLNWBkycn2OrWPEwRDLniLHF2B43cN3c8kem5LCbKF6aI3W1oEtOv8zeAqe8FebkXZOUHbnNSdb0AAAA=[0m[Pipeline] End of Pipeline
+org.jenkinsci.plugins.workflow.actions.ErrorAction$ErrorId: b9caf3a7-6278-415d-9439-d3a54ec2950f
+Finished: ABORTED

@@ -1,0 +1,14 @@
+version: '3'
+services:
+  nginx:
+    image: nginx
+  alpine:
+    image: alpine
+    entrypoint: "wget http://nginx:80" 
+    depends_on:
+    - nginx
+    working_dir: /a/b/c
+    volumes:
+    - ./volt:/a/b/c 
+
+

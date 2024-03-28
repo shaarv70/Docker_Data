@@ -1,0 +1,8 @@
+version: "3"
+services: 
+  squares:
+    image: shaarv70/square
+    environment:
+   # - Number=${NUM}    this is used when we are giving NUM value on our own way
+   #  - Number=${NUM:-7} # this will be the default value if we do not pass any value to NUM(not working in cmd)
+      -   Number             #we can write in this way also(just on the environment key)

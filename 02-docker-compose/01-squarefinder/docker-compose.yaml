@@ -1,0 +1,6 @@
+version: "3"
+services: 
+  squares:
+    image: shaarv70/square
+    environment:
+      - Number=5

@@ -1,0 +1,7 @@
+#so if we have diferent versions of the imaga to be used in our file then we can use in this way
+version: "3"
+services: 
+  squares:
+    image: shaarv70/square:${VERSION} #and to give value to this version we can give it from .env file
+    ports:
+    -  80:80
