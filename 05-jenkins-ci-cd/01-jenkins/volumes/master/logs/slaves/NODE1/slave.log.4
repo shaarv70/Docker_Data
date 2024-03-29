@@ -1,6 +1,30 @@
-Inbound agent connected from 172.20.0.1/172.20.0.1:33738
+Inbound agent connected from 172.20.0.1/172.20.0.1:52286
 Remoting version: 3206.vb_15dcf73f6a_9
 Launcher: JNLPLauncher
 Communication Protocol: JNLP4-connect
 This is a Windows agent
+ERROR: Failed to monitor for Free Swap Space
+java.util.concurrent.TimeoutException
+	at hudson.remoting.Request$1.get(Request.java:322)
+	at hudson.remoting.Request$1.get(Request.java:240)
+	at hudson.remoting.FutureAdapter.get(FutureAdapter.java:66)
+	at hudson.node_monitors.AbstractAsyncNodeMonitorDescriptor.monitorDetailed(AbstractAsyncNodeMonitorDescriptor.java:112)
+	at hudson.node_monitors.AbstractAsyncNodeMonitorDescriptor.monitor(AbstractAsyncNodeMonitorDescriptor.java:76)
+	at hudson.node_monitors.AbstractNodeMonitorDescriptor$Record.run(AbstractNodeMonitorDescriptor.java:324)
 Agent successfully connected and online
+ERROR: Failed to monitor for Free Disk Space
+ERROR: Failed to monitor for Free Temp Space
+java.util.concurrent.TimeoutException
+	at hudson.remoting.Request$1.get(Request.java:322)
+	at hudson.remoting.Request$1.get(Request.java:240)
+	at hudson.remoting.FutureAdapter.get(FutureAdapter.java:66)
+	at hudson.node_monitors.AbstractAsyncNodeMonitorDescriptor.monitorDetailed(AbstractAsyncNodeMonitorDescriptor.java:112)
+	at hudson.node_monitors.DiskSpaceMonitorDescriptor.monitor(DiskSpaceMonitorDescriptor.java:59)
+	at hudson.node_monitors.AbstractNodeMonitorDescriptor$Record.run(AbstractNodeMonitorDescriptor.java:324)
+java.util.concurrent.TimeoutException
+	at hudson.remoting.Request$1.get(Request.java:322)
+	at hudson.remoting.Request$1.get(Request.java:240)
+	at hudson.remoting.FutureAdapter.get(FutureAdapter.java:66)
+	at hudson.node_monitors.AbstractAsyncNodeMonitorDescriptor.monitorDetailed(AbstractAsyncNodeMonitorDescriptor.java:112)
+	at hudson.node_monitors.DiskSpaceMonitorDescriptor.monitor(DiskSpaceMonitorDescriptor.java:59)
+	at hudson.node_monitors.AbstractNodeMonitorDescriptor$Record.run(AbstractNodeMonitorDescriptor.java:324)

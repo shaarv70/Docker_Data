@@ -2,7 +2,7 @@
 <slave>
   <name>NODE1</name>
   <description></description>
-  <remoteFS>C:/Users/vasu/DockerPractice/05-jenkins-ci-cd/01-jenkins/volumes/node</remoteFS>
+  <remoteFS>C:\Users\arvin\DockerPractice\Docker_Data\05-jenkins-ci-cd\01-jenkins\volumes\node</remoteFS>
   <numExecutors>2</numExecutors>
   <mode>NORMAL</mode>
   <retentionStrategy class="hudson.slaves.RetentionStrategy$Always"/>

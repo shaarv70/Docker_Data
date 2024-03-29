@@ -7,8 +7,6 @@ services:
     - HUB_HOST=hub
     - THREAD_COUNT=1
     - TEST_SUITE=vendor-portal.xml
-    deploy:
-        replicas: 1
     volumes:
     - ./output/vendor-portal:/home/selenium-docker/test-output
   flight-reservation:
@@ -18,7 +16,5 @@ services:
         - HUB_HOST=hub
         - THREAD_COUNT=1
         - TEST_SUITE=flight-reservation.xml
-      deploy:
-        replicas: 0
       volumes:
       - ./output/flight-reservation:/home/selenium-docker/test-output
