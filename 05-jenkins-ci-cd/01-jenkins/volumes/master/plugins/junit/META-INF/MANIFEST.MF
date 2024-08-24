@@ -4,13 +4,13 @@ Build-Jdk-Spec: 11
 Specification-Title: JUnit Plugin
 Specification-Version: 0.0
 Implementation-Title: JUnit Plugin
-Implementation-Version: 1259.v65ffcef24a_88
+Implementation-Version: 1265.v65b_14fa_f12f0
 Group-Id: org.jenkins-ci.plugins
 Artifact-Id: junit
 Short-Name: junit
 Long-Name: JUnit Plugin
 Url: https://github.com/jenkinsci/junit-plugin
-Plugin-Version: 1259.v65ffcef24a_88
+Plugin-Version: 1265.v65b_14fa_f12f0
 Hudson-Version: 2.387.3
 Jenkins-Version: 2.387.3
 Plugin-Dependencies: bootstrap5-api:5.3.2-2,checks-api:2.0.2,echarts-api
@@ -23,8 +23,8 @@ Plugin-License-Name: MIT
 Plugin-License-Url: https://opensource.org/licenses/MIT
 Plugin-ScmConnection: scm:git:https://github.com/jenkinsci/junit-plugin.
  git
-Plugin-ScmTag: 65ffcef24a88aa1b16f1ed8610f718d0073d6aa5
+Plugin-ScmTag: 65b14faf12f0288af54692fe74b7c1ae564b95cf
 Plugin-ScmUrl: https://github.com/jenkinsci/junit-plugin
-Plugin-GitHash: 65ffcef24a88aa1b16f1ed8610f718d0073d6aa5
-Implementation-Build: 65ffcef24a88aa1b16f1ed8610f718d0073d6aa5
+Plugin-GitHash: 65b14faf12f0288af54692fe74b7c1ae564b95cf
+Implementation-Build: 65b14faf12f0288af54692fe74b7c1ae564b95cf
 

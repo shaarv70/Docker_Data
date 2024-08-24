@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.jenkins-ci.plugins</groupId>
   <artifactId>trilead-api</artifactId>
-  <version>2.141.v284120fd0c46</version>
+  <version>2.147.vb_73cc728a_32e</version>
   <packaging>hpi</packaging>
   <name>Trilead API Plugin</name>
   <description>This plugin provides access to Trilead without having to bundle Trilead in Jenkins core</description>
@@ -32,7 +32,7 @@
   <scm>
     <connection>scm:git:https://github.com/jenkinsci/trilead-api-plugin.git</connection>
     <developerConnection>scm:git:git@github.com:jenkinsci/trilead-api-plugin.git</developerConnection>
-    <tag>284120fd0c468795f14bf53f3b40e43fee851ace</tag>
+    <tag>b73cc728a32ed12df404feda4397a618b5dc951b</tag>
     <url>https://github.com/jenkinsci/trilead-api-plugin</url>
   </scm>
   <distributionManagement>
@@ -53,8 +53,12 @@
       <scope>compile</scope>
       <exclusions>
         <exclusion>
-          <artifactId>gson</artifactId>
           <groupId>com.google.code.gson</groupId>
+          <artifactId>gson</artifactId>
+        </exclusion>
+        <exclusion>
+          <groupId>net.i2p.crypto</groupId>
+          <artifactId>eddsa</artifactId>
         </exclusion>
       </exclusions>
     </dependency>
@@ -65,8 +69,8 @@
       <scope>compile</scope>
       <exclusions>
         <exclusion>
-          <artifactId>trilead-ssh2</artifactId>
           <groupId>org.jenkins-ci</groupId>
+          <artifactId>trilead-ssh2</artifactId>
         </exclusion>
       </exclusions>
     </dependency>
@@ -76,13 +80,19 @@
       <version>2.10.1-15.v0d99f670e0a_7</version>
       <scope>compile</scope>
     </dependency>
+    <dependency>
+      <groupId>io.jenkins.plugins</groupId>
+      <artifactId>eddsa-api</artifactId>
+      <version>0.3.0-4.v84c6f0f4969e</version>
+      <scope>compile</scope>
+    </dependency>
   </dependencies>
   <build>
     <plugins>
       <plugin>
         <groupId>org.jenkins-ci.tools</groupId>
         <artifactId>maven-hpi-plugin</artifactId>
-        <version>3.51</version>
+        <version>3.55</version>
         <extensions>true</extensions>
       </plugin>
     </plugins>

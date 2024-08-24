@@ -2,10 +2,10 @@
 /******/ 	"use strict";
 /******/ 	var __webpack_modules__ = ({
 
-/***/ 5002:
+/***/ 9508:
 /***/ (function(__unused_webpack_module, __unused_webpack___webpack_exports__, __webpack_require__) {
 
-/* harmony import */ var lodash_debounce__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(8285);
+/* harmony import */ var lodash_debounce__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(5955);
 /* harmony import */ var lodash_debounce__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(lodash_debounce__WEBPACK_IMPORTED_MODULE_0__);
 
 const buildHistoryContainer = document.getElementById("buildHistory");
@@ -266,7 +266,6 @@ function checkRowCellOverflows(row) {
           detailsLessThanHalf = detailsOverflowParams.scrollWidth < usableRowWidth / 2;
         }
       }
-      // eslint-disable-next-line no-inner-declarations
       function expandLeftWithRight(leftCellOverFlowParams, rightCellOverflowParams) {
         // Float them left and right...
         leftCellOverFlowParams.element.style.float = "left";
@@ -585,7 +584,7 @@ document.addEventListener("DOMContentLoaded", function () {
 /******/ 	
 /******/ 	/* webpack/runtime/runtimeId */
 /******/ 	!function() {
-/******/ 		__webpack_require__.j = 858;
+/******/ 		__webpack_require__.j = 985;
 /******/ 	}();
 /******/ 	
 /******/ 	/* webpack/runtime/jsonp chunk loading */
@@ -596,7 +595,7 @@ document.addEventListener("DOMContentLoaded", function () {
 /******/ 		// undefined = chunk not loaded, null = chunk preloaded/prefetched
 /******/ 		// [resolve, reject, Promise] = chunk loading, 0 = chunk loaded
 /******/ 		var installedChunks = {
-/******/ 			858: 0
+/******/ 			985: 0
 /******/ 		};
 /******/ 		
 /******/ 		// no chunk on demand loading
@@ -653,7 +652,7 @@ document.addEventListener("DOMContentLoaded", function () {
 /******/ 	// startup
 /******/ 	// Load entry module and return exports
 /******/ 	// This entry module depends on other loaded chunks and execution need to be delayed
-/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, [216], function() { return __webpack_require__(5002); })
+/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, [96], function() { return __webpack_require__(9508); })
 /******/ 	__webpack_exports__ = __webpack_require__.O(__webpack_exports__);
 /******/ 	
 /******/ })()

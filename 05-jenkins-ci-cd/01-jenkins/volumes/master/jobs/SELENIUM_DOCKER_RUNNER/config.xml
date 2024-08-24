@@ -19,9 +19,11 @@
         <hudson.model.ChoiceParameterDefinition>
           <name>BROWSER</name>
           <description>Select the browser</description>
-          <choices>
-            <string>chrome</string>
-            <string>firefox</string>
+          <choices class="java.util.Arrays$ArrayList">
+            <a class="string-array">
+              <string>chrome</string>
+              <string>firefox</string>
+            </a>
           </choices>
         </hudson.model.ChoiceParameterDefinition>
       </parameterDefinitions>
@@ -33,6 +35,7 @@
       <userRemoteConfigs>
         <hudson.plugins.git.UserRemoteConfig>
           <url>https://github.com/shaarv70/selenium-docker-runner.git</url>
+          <credentialsId>Github-creds</credentialsId>
         </hudson.plugins.git.UserRemoteConfig>
       </userRemoteConfigs>
       <branches>

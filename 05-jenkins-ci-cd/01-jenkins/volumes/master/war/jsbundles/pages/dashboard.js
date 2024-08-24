@@ -2,6 +2,17 @@
 /******/ 	"use strict";
 var __webpack_exports__ = {};
 
+;// CONCATENATED MODULE: ./src/main/js/util/behavior-shim.js
+function specify(selector, id, priority, behavior) {
+  Behaviour.specify(selector, id, priority, behavior);
+}
+function applySubtree(startNode, includeSelf) {
+  Behaviour.applySubtree(startNode, includeSelf);
+}
+/* harmony default export */ var behavior_shim = ({
+  specify,
+  applySubtree
+});
 ;// CONCATENATED MODULE: ./src/main/js/util/dom.js
 function createElementFromHtml(html) {
   const template = document.createElement("template");
@@ -13,13 +24,16 @@ function toId(string) {
 }
 ;// CONCATENATED MODULE: ./src/main/js/pages/dashboard/index.js
 
-document.querySelector("#button-icon-legend").addEventListener("click", () => {
-  const template = document.querySelector("#template-icon-legend");
-  const title = template.getAttribute("data-title");
-  const content = createElementFromHtml("<div>" + template.innerHTML + "</div>");
-  dialog.modal(content, {
-    maxWidth: "550px",
-    title: title
+
+behavior_shim.specify("#button-icon-legend", "icon-legend", 999, button => {
+  button.addEventListener("click", () => {
+    const template = document.querySelector("#template-icon-legend");
+    const title = template.getAttribute("data-title");
+    const content = createElementFromHtml("<div>" + template.innerHTML + "</div>");
+    dialog.modal(content, {
+      maxWidth: "550px",
+      title: title
+    });
   });
 });
 /******/ })()

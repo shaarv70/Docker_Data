@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.jenkins.plugins</groupId>
   <artifactId>javax-activation-api</artifactId>
-  <version>1.2.0-6</version>
+  <version>1.2.0-7</version>
   <packaging>hpi</packaging>
   <name>JavaBeans Activation Framework (JAF) API</name>
   <description>Plugin providing the JavaBeans Activation Framework (JAF) API for other plugins</description>
@@ -19,7 +19,7 @@
   <scm child.scm.connection.inherit.append.path="false" child.scm.developerConnection.inherit.append.path="false" child.scm.url.inherit.append.path="false">
     <connection>scm:git:https://github.com/jenkinsci/javax-activation-api-plugin.git</connection>
     <developerConnection>scm:git:git@github.com:jenkinsci/javax-activation-api-plugin.git</developerConnection>
-    <tag>javax-activation-api-1.2.0-6</tag>
+    <tag>javax-activation-api-1.2.0-7</tag>
     <url>https://github.com/jenkinsci/javax-activation-api-plugin</url>
   </scm>
   <distributionManagement>
@@ -39,43 +39,13 @@
       <version>1.2.0</version>
       <scope>compile</scope>
     </dependency>
-    <dependency>
-      <groupId>org.jenkins-ci.main</groupId>
-      <artifactId>jenkins-core</artifactId>
-      <version>2.361.4</version>
-      <scope>provided</scope>
-      <exclusions>
-        <exclusion>
-          <groupId>javax.servlet</groupId>
-          <artifactId>servlet-api</artifactId>
-        </exclusion>
-      </exclusions>
-    </dependency>
-    <dependency>
-      <groupId>javax.servlet</groupId>
-      <artifactId>javax.servlet-api</artifactId>
-      <version>3.1.0</version>
-      <scope>provided</scope>
-    </dependency>
-    <dependency>
-      <groupId>commons-logging</groupId>
-      <artifactId>commons-logging</artifactId>
-      <version>1.2</version>
-      <scope>provided</scope>
-    </dependency>
   </dependencies>
-  <repositories>
-    <repository>
-      <id>repo.jenkins-ci.org</id>
-      <url>https://repo.jenkins-ci.org/public/</url>
-    </repository>
-  </repositories>
   <build>
     <plugins>
       <plugin>
         <groupId>org.jenkins-ci.tools</groupId>
         <artifactId>maven-hpi-plugin</artifactId>
-        <version>3.38</version>
+        <version>3.55</version>
         <extensions>true</extensions>
       </plugin>
     </plugins>

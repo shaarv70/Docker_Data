@@ -42,7 +42,7 @@
     <hudson.security.HudsonPrivateSecurityRealm_-Details>
       <passwordHash>#jbcrypt:$2a$10$BIOUbMQp8NBZDVVsGKx6q.D4NswK4vAAbkZXQO6MXzy/nGOTKKlVy</passwordHash>
     </hudson.security.HudsonPrivateSecurityRealm_-Details>
-    <hudson.tasks.Mailer_-UserProperty plugin="mailer@470.vc91f60c5d8e2">
+    <hudson.tasks.Mailer_-UserProperty plugin="mailer@472.vf7c289a_4b_420">
       <emailAddress>admin@admin.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
     <jenkins.security.ApiTokenProperty>
