@@ -1,0 +1,1 @@
+DEVICE_PORT=5555 docker-compose up --pull=always
