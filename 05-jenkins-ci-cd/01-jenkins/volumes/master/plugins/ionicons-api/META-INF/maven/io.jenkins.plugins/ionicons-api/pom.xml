@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.jenkins.plugins</groupId>
   <artifactId>ionicons-api</artifactId>
-  <version>56.v1b_1c8c49374e</version>
+  <version>74.v93d5eb_813d5f</version>
   <packaging>hpi</packaging>
   <name>Ionicons API</name>
   <description>The Jenkins Plugins Parent POM Project</description>
@@ -26,7 +26,7 @@
   <scm child.scm.connection.inherit.append.path="false" child.scm.developerConnection.inherit.append.path="false" child.scm.url.inherit.append.path="false">
     <connection>scm:git:https://github.com/jenkinsci/ionicons-api-plugin</connection>
     <developerConnection>scm:git:https://github.com/jenkinsci/ionicons-api-plugin</developerConnection>
-    <tag>1b1c8c49374e1efa84e7ca5680593a148be51963</tag>
+    <tag>93d5eb813d5f788438a61867606209a38178a9d2</tag>
     <url>https://github.com/jenkinsci/ionicons-api-plugin</url>
   </scm>
   <distributionManagement>
@@ -39,18 +39,12 @@
       <url>https://repo.jenkins-ci.org/snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
-  <repositories>
-    <repository>
-      <id>repo.jenkins-ci.org</id>
-      <url>https://repo.jenkins-ci.org/public/</url>
-    </repository>
-  </repositories>
   <build>
     <plugins>
       <plugin>
         <groupId>org.jenkins-ci.tools</groupId>
         <artifactId>maven-hpi-plugin</artifactId>
-        <version>3.44</version>
+        <version>3.53</version>
         <extensions>true</extensions>
       </plugin>
     </plugins>

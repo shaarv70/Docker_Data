@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.jenkins-ci.plugins</groupId>
   <artifactId>display-url-api</artifactId>
-  <version>2.200.vb_9327d658781</version>
+  <version>2.209.v582ed814ff2f</version>
   <packaging>hpi</packaging>
   <name>Display URL API</name>
   <description>The Jenkins Plugins Parent POM Project</description>
@@ -26,7 +26,7 @@
   <scm>
     <connection>scm:git:https://github.com/jenkinsci/display-url-api-plugin.git</connection>
     <developerConnection>scm:git:git@github.com:jenkinsci/display-url-api-plugin.git</developerConnection>
-    <tag>b9327d65878164063a155bcee277359256d1c936</tag>
+    <tag>582ed814ff2f26225176b90c05c940c25a060062</tag>
     <url>https://github.com/jenkinsci/display-url-api-plugin</url>
   </scm>
   <distributionManagement>
@@ -44,7 +44,7 @@
       <plugin>
         <groupId>org.jenkins-ci.tools</groupId>
         <artifactId>maven-hpi-plugin</artifactId>
-        <version>3.48</version>
+        <version>3.58</version>
         <extensions>true</extensions>
       </plugin>
     </plugins>
