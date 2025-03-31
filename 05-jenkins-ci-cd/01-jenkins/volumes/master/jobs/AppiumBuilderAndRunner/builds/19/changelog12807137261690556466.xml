@@ -1,9 +1,0 @@
-commit f35a21485b85773dc35da73715430553c77ff875
-tree 1da0e865ba04b6dab348e39ffdb9c268f21ac8cb
-parent 54c9b59809ae1f62aa7dfae8847b541d99235dff
-author arvind <arvindsharma50480@gmail.com> 2024-08-29 00:07:54 +0530
-committer arvind <arvindsharma50480@gmail.com> 2024-08-29 00:07:54 +0530
-
-    Changing from settings
-
-:100644 100644 6f44c0a2c005aeaa66146566620ece16479d9282 345c8707b20875c37a5462377d8c08ee651d274c M	Jenkinsfile

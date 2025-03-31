@@ -1,9 +1,0 @@
-commit 9f835fbb3ececd09cfba4b118bbc67af20cfff8a
-tree 6add15609c33a69d9076bf2a84b19e4fbbe8311e
-parent f35a21485b85773dc35da73715430553c77ff875
-author arvind <arvindsharma50480@gmail.com> 2024-08-29 00:32:07 +0530
-committer arvind <arvindsharma50480@gmail.com> 2024-08-29 00:32:07 +0530
-
-    Code for attaching artifact report with the email
-
-:100644 100644 345c8707b20875c37a5462377d8c08ee651d274c a6b2125c9e80fc1ff5a15fbc07399c65f37302bd M	Jenkinsfile

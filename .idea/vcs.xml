@@ -2,11 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/05-jenkins-ci-cd/01-jenkins/volumes/master/caches/git-9566113997f9a8190cd8a97e2d0d98a4" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/05-jenkins-ci-cd/01-jenkins/volumes/master/caches/git-c77ae0b006ca4d0052bd4ecec0ad4863" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/05-jenkins-ci-cd/01-jenkins/volumes/master/caches/git-e75d7d08293f247b2917859607f9a592" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/05-jenkins-ci-cd/01-jenkins/volumes/node/workspace/AppiumBuilderAndRunner" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/05-jenkins-ci-cd/01-jenkins/volumes/node/workspace/SELENIUM_DOCKER_RUNNER" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/05-jenkins-ci-cd/01-jenkins/volumes/node/workspace/SeleniumDockerBuilder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/05-jenkins-ci-cd/01-jenkins/volumes/master/caches/git-781bd5aafdefebf6dbd4db1d1dd86ca1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/05-jenkins-ci-cd/01-jenkins/volumes/node/workspace/PlaywrightBuilderAndRunner" vcs="Git" />
   </component>
 </project>
