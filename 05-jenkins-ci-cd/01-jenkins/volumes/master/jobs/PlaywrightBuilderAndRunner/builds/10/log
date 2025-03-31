@@ -1,0 +1,745 @@
+Started by user [8mha:////4DVpYekuN+7372GT/VJxtCLTYIBX6B/AxDQE8qxieRSXAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Obtained Jenkinsfile from git https://github.com/shaarv70/PlaywrightPracticeCode.git
+[8mha:////4EcdxupWSFaOpFU7Wz4jdNptsRXpPEnTSs+IeONOCssrAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4FLH39Ttnj+pglSqsGIaxsQEcfqe0y2PNakXtASzyGwJAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4EH478IPqFnXIKWsCtcFpoU5CYUXgv48cC6a8yJs+tvzAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgYB/eT83ILSktQifT+gOw31AXmd66/FAAAA[0mNode1 in C:\Users\arvin\IdeaProjects\Docker_Data\05-jenkins-ci-cd\01-jenkins\volumes\node\workspace\PlaywrightBuilderAndRunner
+[8mha:////4NTPgQ2lkMYU3Drc3/RHugkdPxbFNZrREIrI5uy6V4+1AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4LQ/C8bvJDaHYlqm+zfI6uIYEZ2uTHeMjz0Azt4YDRn8AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] stage
+[8mha:////4Is1gFDOC+HAqOCd95ByQM7IecE3KhKbo6BbNP9e94jtAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] { (Declarative: Checkout SCM)
+[8mha:////4GJII24LJDt1+RrDd5qkX+vwjBmHYehakql1RFMr6zfGAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaWGsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gfg7KmOvAAAAA==[0m[Pipeline] checkout
+Selected Git installation does not exist. Using Default
+The recommended git tool is: NONE
+using credential Github-creds
+Fetching changes from the remote Git repository
+Cleaning workspace
+ > git rev-parse --resolve-git-dir C:\Users\arvin\IdeaProjects\Docker_Data\05-jenkins-ci-cd\01-jenkins\volumes\node\workspace\PlaywrightBuilderAndRunner\.git # timeout=10
+ > git config remote.origin.url https://github.com/shaarv70/PlaywrightPracticeCode.git # timeout=10
+ > git rev-parse --verify HEAD # timeout=10
+Resetting working tree
+ > git reset --hard # timeout=10
+ > git clean -fdx # timeout=10
+Fetching upstream changes from https://github.com/shaarv70/PlaywrightPracticeCode.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.47.0.windows.2'
+using GIT_ASKPASS to set credentials My github Credentials
+ > git fetch --tags --force --progress -- https://github.com/shaarv70/PlaywrightPracticeCode.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+Checking out Revision f0149e1b53a55a5ca2641f887fd7e636fcc6c75d (refs/remotes/origin/main)
+Commit message: "21st commit"
+First time build. Skipping changelog.
+[8mha:////4BpuIYXfqWL6WByR1ecZHjVsAPkf6QkKrZj56UIRv165AAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbGRNjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9Dg2gqvAAAAA==[0m[Pipeline] }
+[8mha:////4M8Qv/rcxb07sH8dJzGP/pp7kYy2B6WMlk/C0NA8cQY2AAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQRbWRhjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9J+wGOvAAAAA==[0m[Pipeline] // stage
+[8mha:////4DqDyAxctDQ80/VXhE8Aq3nXnJHxHlKEU2m78cmahwEsAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQDEh2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2G4+x/INtuQqUcEAAAA=[0m[Pipeline] withEnv
+[8mha:////4EFDeSXR1p5qLcLO0BzGYVwTaVvPn4bJz9Rmk6ebeMVWAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycoiUzoiJNerCCUITQtLo/zZJSSdOxNW4Ay2VmPBg2Zas93pDGQOcKBjuNHYWY2t570czJ54pdDdPmTu68pYwkte80bkhpc9rbShpWFUw2AjYamw9RYsmwU44+ZCVl2iqSwrzdhTArBrgCYWYyUmG9C1TgP19VJHwx/kLgKlPwOrDYvXyLD8BobDcwgAAAA==[0m[Pipeline] {
+[8mha:////4Iy9062WSzcoRyV8IK6JE8tQ06vXaCwQ8Iht8sZCKA1lAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUZUVMrFEWThCaEJJG/7dJSjpxIq7GHWipxIQHy7ZkvdcbqhjgRMEwp7GzGFvLej+aObFMobt5yszRlbWEkbxmQmdBSp/XKihpWFWUsOGw1dh6ihZNgh138iFrL9HUlxTm7cihtGqAJxR8JicZ0rdMAfb3UUXCH+cvAKY+Qdk0ix2WZ/UBbwyqm8IAAAA=[0m[Pipeline] withEnv
+[8mha:////4FPhZtvGSRBo/biKopiCWocNa+P2jt5Oozuo3ekMxLU+AAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUwIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfLdfrbD/Cw+y7kUycIAAAA=[0m[Pipeline] {
+ > git rev-parse "refs/remotes/origin/main^{commit}" # timeout=10
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f f0149e1b53a55a5ca2641f887fd7e636fcc6c75d # timeout=10
+[8mha:////4CXCZ2pTX7GDFk4QKa4H5BTL6r8ilTecCZb9LJtwkUL6AAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUCDbE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dv9rMd5mfxAbNWnxXCAAAA[0m[Pipeline] stage
+[8mha:////4D4xg8GCjNQAUNADREgV0NnvlBW/cMgCEMOGiHcvxmtLAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUSDAhpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD5WQ+PfCAAAA[0m[Pipeline] { (Build Image)
+[8mha:////4N2J0flSWPAqcCmNruCiG75nDLgECDRPazxAc0E1rK2oAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiCmgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHN7LjSKW+AAAA[0m[Pipeline] bat
+
+C:\Users\arvin\IdeaProjects\Docker_Data\05-jenkins-ci-cd\01-jenkins\volumes\node\workspace\PlaywrightBuilderAndRunner>docker build -t=shaarv70/playwright:latest . 
+#0 building with "desktop-linux" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 519B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for mcr.microsoft.com/playwright:v1.50.1
+#2 DONE 1.3s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 52B done
+#3 DONE 0.0s
+
+#4 [1/9] FROM mcr.microsoft.com/playwright:v1.50.1@sha256:ac7053180325ef75d31774c458d0bb9b55ac153ae1be3d104b80c6c1bb6a067c
+#4 resolve mcr.microsoft.com/playwright:v1.50.1@sha256:ac7053180325ef75d31774c458d0bb9b55ac153ae1be3d104b80c6c1bb6a067c 0.0s done
+#4 ...
+
+#5 [internal] load build context
+#5 transferring context: 970.85kB 0.0s done
+#5 DONE 0.1s
+
+#4 [1/9] FROM mcr.microsoft.com/playwright:v1.50.1@sha256:ac7053180325ef75d31774c458d0bb9b55ac153ae1be3d104b80c6c1bb6a067c
+#4 sha256:ecd31483f9fd5d1a337e8692261e3c53147682b7f415708a08b05ebd72a66c12 0B / 1.91MB 0.2s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 0B / 753.35MB 0.2s
+#4 sha256:ae2f3998d34ac6fd0353fb298193f7358d476f40b17f87055cb006c6dbb28c9e 0B / 101.33MB 0.2s
+#4 sha256:54609b48ebc1ccdf2a757f1a086fc8c934d12564b25af4a66536ef66891cb1a1 0B / 30.61MB 0.2s
+#4 sha256:ecd31483f9fd5d1a337e8692261e3c53147682b7f415708a08b05ebd72a66c12 1.05MB / 1.91MB 0.5s
+#4 sha256:ecd31483f9fd5d1a337e8692261e3c53147682b7f415708a08b05ebd72a66c12 1.91MB / 1.91MB 0.5s done
+#4 sha256:54609b48ebc1ccdf2a757f1a086fc8c934d12564b25af4a66536ef66891cb1a1 2.10MB / 30.61MB 0.9s
+#4 sha256:54609b48ebc1ccdf2a757f1a086fc8c934d12564b25af4a66536ef66891cb1a1 4.19MB / 30.61MB 2.0s
+#4 sha256:54609b48ebc1ccdf2a757f1a086fc8c934d12564b25af4a66536ef66891cb1a1 6.29MB / 30.61MB 3.5s
+#4 sha256:54609b48ebc1ccdf2a757f1a086fc8c934d12564b25af4a66536ef66891cb1a1 8.39MB / 30.61MB 4.4s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 8.39MB / 753.35MB 5.3s
+#4 sha256:ae2f3998d34ac6fd0353fb298193f7358d476f40b17f87055cb006c6dbb28c9e 5.24MB / 101.33MB 5.3s
+#4 sha256:54609b48ebc1ccdf2a757f1a086fc8c934d12564b25af4a66536ef66891cb1a1 10.49MB / 30.61MB 5.9s
+#4 sha256:54609b48ebc1ccdf2a757f1a086fc8c934d12564b25af4a66536ef66891cb1a1 12.58MB / 30.61MB 7.5s
+#4 sha256:ae2f3998d34ac6fd0353fb298193f7358d476f40b17f87055cb006c6dbb28c9e 10.49MB / 101.33MB 8.4s
+#4 sha256:54609b48ebc1ccdf2a757f1a086fc8c934d12564b25af4a66536ef66891cb1a1 14.68MB / 30.61MB 8.8s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 17.83MB / 753.35MB 10.4s
+#4 sha256:54609b48ebc1ccdf2a757f1a086fc8c934d12564b25af4a66536ef66891cb1a1 16.78MB / 30.61MB 10.5s
+#4 sha256:ae2f3998d34ac6fd0353fb298193f7358d476f40b17f87055cb006c6dbb28c9e 15.73MB / 101.33MB 11.1s
+#4 sha256:54609b48ebc1ccdf2a757f1a086fc8c934d12564b25af4a66536ef66891cb1a1 18.87MB / 30.61MB 11.4s
+#4 sha256:54609b48ebc1ccdf2a757f1a086fc8c934d12564b25af4a66536ef66891cb1a1 20.97MB / 30.61MB 12.4s
+#4 sha256:54609b48ebc1ccdf2a757f1a086fc8c934d12564b25af4a66536ef66891cb1a1 23.07MB / 30.61MB 13.4s
+#4 sha256:ae2f3998d34ac6fd0353fb298193f7358d476f40b17f87055cb006c6dbb28c9e 20.97MB / 101.33MB 14.4s
+#4 sha256:54609b48ebc1ccdf2a757f1a086fc8c934d12564b25af4a66536ef66891cb1a1 25.17MB / 30.61MB 14.8s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 26.21MB / 753.35MB 15.4s
+#4 sha256:54609b48ebc1ccdf2a757f1a086fc8c934d12564b25af4a66536ef66891cb1a1 27.26MB / 30.61MB 16.2s
+#4 sha256:54609b48ebc1ccdf2a757f1a086fc8c934d12564b25af4a66536ef66891cb1a1 29.36MB / 30.61MB 17.4s
+#4 sha256:54609b48ebc1ccdf2a757f1a086fc8c934d12564b25af4a66536ef66891cb1a1 30.61MB / 30.61MB 18.1s done
+#4 extracting sha256:54609b48ebc1ccdf2a757f1a086fc8c934d12564b25af4a66536ef66891cb1a1
+#4 sha256:ae2f3998d34ac6fd0353fb298193f7358d476f40b17f87055cb006c6dbb28c9e 26.21MB / 101.33MB 18.1s
+#4 extracting sha256:54609b48ebc1ccdf2a757f1a086fc8c934d12564b25af4a66536ef66891cb1a1 0.8s done
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 36.70MB / 753.35MB 20.5s
+#4 sha256:ae2f3998d34ac6fd0353fb298193f7358d476f40b17f87055cb006c6dbb28c9e 31.46MB / 101.33MB 20.4s
+#4 sha256:ae2f3998d34ac6fd0353fb298193f7358d476f40b17f87055cb006c6dbb28c9e 36.70MB / 101.33MB 22.2s
+#4 sha256:ae2f3998d34ac6fd0353fb298193f7358d476f40b17f87055cb006c6dbb28c9e 41.94MB / 101.33MB 24.1s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 49.28MB / 753.35MB 25.6s
+#4 sha256:ae2f3998d34ac6fd0353fb298193f7358d476f40b17f87055cb006c6dbb28c9e 47.19MB / 101.33MB 26.5s
+#4 sha256:ae2f3998d34ac6fd0353fb298193f7358d476f40b17f87055cb006c6dbb28c9e 52.43MB / 101.33MB 28.0s
+#4 sha256:ae2f3998d34ac6fd0353fb298193f7358d476f40b17f87055cb006c6dbb28c9e 57.67MB / 101.33MB 30.0s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 58.72MB / 753.35MB 30.7s
+#4 sha256:ae2f3998d34ac6fd0353fb298193f7358d476f40b17f87055cb006c6dbb28c9e 62.91MB / 101.33MB 31.5s
+#4 sha256:ae2f3998d34ac6fd0353fb298193f7358d476f40b17f87055cb006c6dbb28c9e 68.16MB / 101.33MB 33.4s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 70.25MB / 753.35MB 35.9s
+#4 sha256:ae2f3998d34ac6fd0353fb298193f7358d476f40b17f87055cb006c6dbb28c9e 73.40MB / 101.33MB 35.7s
+#4 sha256:ae2f3998d34ac6fd0353fb298193f7358d476f40b17f87055cb006c6dbb28c9e 78.64MB / 101.33MB 37.2s
+#4 sha256:ae2f3998d34ac6fd0353fb298193f7358d476f40b17f87055cb006c6dbb28c9e 83.89MB / 101.33MB 39.0s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 80.74MB / 753.35MB 40.9s
+#4 sha256:ae2f3998d34ac6fd0353fb298193f7358d476f40b17f87055cb006c6dbb28c9e 89.13MB / 101.33MB 41.1s
+#4 sha256:ae2f3998d34ac6fd0353fb298193f7358d476f40b17f87055cb006c6dbb28c9e 94.37MB / 101.33MB 43.2s
+#4 sha256:ae2f3998d34ac6fd0353fb298193f7358d476f40b17f87055cb006c6dbb28c9e 99.61MB / 101.33MB 44.8s
+#4 sha256:ae2f3998d34ac6fd0353fb298193f7358d476f40b17f87055cb006c6dbb28c9e 101.33MB / 101.33MB 45.4s done
+#4 extracting sha256:ae2f3998d34ac6fd0353fb298193f7358d476f40b17f87055cb006c6dbb28c9e
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 92.27MB / 753.35MB 46.0s
+#4 extracting sha256:ae2f3998d34ac6fd0353fb298193f7358d476f40b17f87055cb006c6dbb28c9e 2.8s done
+#4 extracting sha256:ecd31483f9fd5d1a337e8692261e3c53147682b7f415708a08b05ebd72a66c12 0.0s done
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 117.44MB / 753.35MB 51.1s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 141.56MB / 753.35MB 56.2s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 164.63MB / 753.35MB 61.3s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 189.79MB / 753.35MB 66.4s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 211.81MB / 753.35MB 71.5s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 235.93MB / 753.35MB 76.6s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 261.10MB / 753.35MB 81.7s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 283.12MB / 753.35MB 86.8s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 308.28MB / 753.35MB 91.9s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 331.35MB / 753.35MB 97.0s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 353.37MB / 753.35MB 102.1s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 377.49MB / 753.35MB 107.2s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 402.65MB / 753.35MB 112.3s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 427.82MB / 753.35MB 117.4s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 450.89MB / 753.35MB 122.5s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 475.00MB / 753.35MB 127.6s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 498.07MB / 753.35MB 132.7s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 520.09MB / 753.35MB 137.8s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 543.16MB / 753.35MB 142.9s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 568.33MB / 753.35MB 148.0s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 588.25MB / 753.35MB 153.1s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 614.47MB / 753.35MB 158.2s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 635.44MB / 753.35MB 163.3s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 658.51MB / 753.35MB 168.4s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 684.72MB / 753.35MB 173.5s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 709.89MB / 753.35MB 178.6s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 734.00MB / 753.35MB 183.7s
+#4 sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 753.35MB / 753.35MB 187.7s done
+#4 extracting sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c
+#4 extracting sha256:4db20b60f57e9f7cbe1b11c352270f0051ed5f8578be0f7a5a8e98f5f72d051c 10.7s done
+#4 DONE 198.6s
+
+#6 [2/9] WORKDIR /app
+#6 DONE 0.8s
+
+#7 [3/9] COPY package.json package-lock.json ./
+#7 DONE 0.1s
+
+#8 [4/9] RUN npm install
+#8 1.198 npm warn deprecated npmlog@6.0.2: This package is no longer supported.
+#8 1.200 npm warn deprecated rimraf@3.0.2: Rimraf versions prior to v4 are no longer supported
+#8 1.436 npm warn deprecated inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
+#8 1.529 npm warn deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+#8 1.608 npm warn deprecated gauge@4.0.4: This package is no longer supported.
+#8 1.690 npm warn deprecated are-we-there-yet@3.0.1: This package is no longer supported.
+#8 1.852 npm warn deprecated @npmcli/move-file@1.1.2: This functionality has been moved to @npmcli/fs
+#8 4.872 
+#8 4.872 added 139 packages, and audited 140 packages in 5s
+#8 4.872 
+#8 4.872 13 packages are looking for funding
+#8 4.872   run `npm fund` for details
+#8 4.873 
+#8 4.873 found 0 vulnerabilities
+#8 4.874 npm notice
+#8 4.874 npm notice New major version of npm available! 10.9.2 -> 11.2.0
+#8 4.874 npm notice Changelog: https://github.com/npm/cli/releases/tag/v11.2.0
+#8 4.874 npm notice To update run: npm install -g npm@11.2.0
+#8 4.874 npm notice
+#8 DONE 5.0s
+
+#9 [5/9] RUN apt-get update && apt-get install -y dos2unix
+#9 1.349 Get:1 http://archive.ubuntu.com/ubuntu noble InRelease [256 kB]
+#9 1.868 Get:2 https://deb.nodesource.com/node_22.x nodistro InRelease [12.1 kB]
+#9 1.920 Get:3 https://deb.nodesource.com/node_22.x nodistro/main amd64 Packages [5206 B]
+#9 2.162 Get:4 http://archive.ubuntu.com/ubuntu noble-updates InRelease [126 kB]
+#9 2.345 Get:5 http://security.ubuntu.com/ubuntu noble-security InRelease [126 kB]
+#9 2.359 Get:6 http://archive.ubuntu.com/ubuntu noble-backports InRelease [126 kB]
+#9 2.558 Get:7 http://archive.ubuntu.com/ubuntu noble/universe amd64 Packages [19.3 MB]
+#9 3.021 Get:8 http://security.ubuntu.com/ubuntu noble-security/restricted amd64 Packages [1024 kB]
+#9 6.344 Get:9 http://security.ubuntu.com/ubuntu noble-security/main amd64 Packages [897 kB]
+#9 6.423 Get:10 http://archive.ubuntu.com/ubuntu noble/multiverse amd64 Packages [331 kB]
+#9 6.487 Get:11 http://archive.ubuntu.com/ubuntu noble/restricted amd64 Packages [117 kB]
+#9 6.489 Get:12 http://archive.ubuntu.com/ubuntu noble/main amd64 Packages [1808 kB]
+#9 6.952 Get:13 http://archive.ubuntu.com/ubuntu noble-updates/universe amd64 Packages [1358 kB]
+#9 7.304 Get:14 http://archive.ubuntu.com/ubuntu noble-updates/multiverse amd64 Packages [26.4 kB]
+#9 7.305 Get:15 http://archive.ubuntu.com/ubuntu noble-updates/restricted amd64 Packages [1112 kB]
+#9 7.482 Get:16 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 Packages [1242 kB]
+#9 7.765 Get:17 http://archive.ubuntu.com/ubuntu noble-backports/main amd64 Packages [48.0 kB]
+#9 7.784 Get:18 http://archive.ubuntu.com/ubuntu noble-backports/universe amd64 Packages [30.9 kB]
+#9 8.126 Get:19 http://security.ubuntu.com/ubuntu noble-security/multiverse amd64 Packages [21.9 kB]
+#9 8.162 Get:20 http://security.ubuntu.com/ubuntu noble-security/universe amd64 Packages [1065 kB]
+#9 9.169 Fetched 29.0 MB in 9s (3328 kB/s)
+#9 9.169 Reading package lists...
+#9 9.896 Reading package lists...
+#9 10.60 Building dependency tree...
+#9 10.79 Reading state information...
+#9 11.01 The following NEW packages will be installed:
+#9 11.01   dos2unix
+#9 11.42 0 upgraded, 1 newly installed, 0 to remove and 54 not upgraded.
+#9 11.42 Need to get 501 kB of archives.
+#9 11.42 After this operation, 1868 kB of additional disk space will be used.
+#9 11.42 Get:1 http://archive.ubuntu.com/ubuntu noble/universe amd64 dos2unix amd64 7.5.1-1 [501 kB]
+#9 12.65 debconf: delaying package configuration, since apt-utils is not installed
+#9 12.68 Fetched 501 kB in 1s (339 kB/s)
+#9 12.70 Selecting previously unselected package dos2unix.
+#9 12.70 (Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 34955 files and directories currently installed.)
+#9 12.71 Preparing to unpack .../dos2unix_7.5.1-1_amd64.deb ...
+#9 12.72 Unpacking dos2unix (7.5.1-1) ...
+#9 12.77 Setting up dos2unix (7.5.1-1) ...
+#9 DONE 12.9s
+
+#10 [6/9] ADD runner.sh runner.sh
+#10 DONE 0.0s
+
+#11 [7/9] COPY . .
+#11 DONE 0.1s
+
+#12 [8/9] RUN dos2unix runner.sh
+#12 0.391 dos2unix: converting file runner.sh to Unix format...
+#12 DONE 0.4s
+
+#13 [9/9] RUN chmod +x runner.sh
+#13 DONE 0.6s
+
+#14 exporting to image
+#14 exporting layers
+#14 exporting layers 2.1s done
+#14 exporting manifest sha256:c2502a2e3a744c7fa50c65165207a043222b6c38bd865f18c466671cf61bb7eb 0.0s done
+#14 exporting config sha256:6383e9a7b8bf9b55c6a7e0995effc91b6091cc5e0d1c941aaa33cd67a4e37d71 0.0s done
+#14 exporting attestation manifest sha256:fb4ab7ef1e57d5e9e27849ee60fd69b4909d63931d21338a7fc81d7ab72496e3 0.0s done
+#14 exporting manifest list sha256:e2aed36a39c30cbc850df650dfe1303a86c56d2f050e40dccf788fe746c972d3 0.0s done
+#14 naming to docker.io/shaarv70/playwright:latest done
+#14 unpacking to docker.io/shaarv70/playwright:latest
+#14 unpacking to docker.io/shaarv70/playwright:latest 0.9s done
+#14 DONE 3.1s
+
+View build details: docker-desktop://dashboard/build/desktop-linux/desktop-linux/lpmxbozqxmlwhwc8ez2c3q9ou
+[8mha:////4E+mDh6ly5lLvfU+iFOjq5IfsMvIQLKSATAythSxoX9vAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiCkSBqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQGOY4V7vgAAAA==[0m[Pipeline] }
+[8mha:////4NYxG0ilvV2DWzLGkGx1zGMKS8CECAoablai2IrfxVosAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiJAokRJXWcsMLTGyME+vO2A5JxYv4Gn8gEImKLVY728zzBcsU4cjRYmuoc5Qah8H3dlo4cOwungds+YwNU2JvUJpBsjb1jJKzgTlFCQsBK0ON5+TIZliLVt1V5RXZ6pTj9B0ElE7f4AGFmMxZxfyFMcLm2uvE9PP8FcAYQoZyu//U7g3N4dT9vgAAAA==[0m[Pipeline] // stage
+[8mha:////4P8Vax42pAnyFMUc1PMeL9cipMXO/nqgYOTSvngJA8QfAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUiAkhpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD21FAanCAAAA[0m[Pipeline] stage
+[8mha:////4DRKBvNlwbXmjDAptNWppmj4fpDx1XeJl4AgnWVKw+8nAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogU2BDqxBp14QShCSFp9H9JUtKJE3E17kCgEhMeLNuS9Z4vqIKHhrxmVmFvMHSGDW7UObFEvr84SszSmXWEgZxirUotSXWca0tRwayihAWHpcLOUTCoI6y4FXdRO4G6PkWftwOH0sgbPKDgmRyFj98yeVhfRxkIf5y/AJiGCOV2n223+TyrN7xWSV3CAAAA[0m[Pipeline] { (Push Image)
+[8mha:////4LaQc+LB2gAaMYtZgZZMXwe792y05M5SSZIDJkzaxXx4AAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogUWBFT1ygLJwhNCGmj/8tPSjtxIq7GHWipxIQHy7ZkvdcbishwInaisdh6jLUXXejdlMRA3F4DDaKhi6gJIwUrlB0UGVstVVGysCjLYSVhbbEOFD26BBvZ6Icug0ZXnhNP21FC7s0dnpDJiZw0p28ZGba33kTCH+cvAMYuQX7Yzbafn8UHbGnGmsIAAAA=[0m[Pipeline] withCredentials
+Masking supported pattern matches of %DOCKER_HUB% or %DOCKER_HUB_PSW%
+[8mha:////4Khfl4KnitzfBwAxBz8lPHhhHX+YfD7WU137yKxIdFAIAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycohUdEVMrFEXThCaEJJG/7dJSjpxIq7GHWipxIQHy7ZkvdcbyhjgRMFwp7GzGFvLez+aOfFMobt5ytzRlbeEkbzmjc4NKX1ea0NJw6qCwUbAVmPrKVo0CXbCyYesvERTXVKYt6MAZtUATyjETE4ypG+ZAuzvo4qEP85fAEx9AlYfFquXZ/kBAsTc3cIAAAA=[0m[Pipeline] {
+[8mha:////4IivSDPUspknS/mfFHg8B9Ib3JQDfJNzeAPETw8GTmIZAAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggyE0vHypah8QSYIEKY/wkQSeWJvJp3EM2MlVvs7NvmPV+wjgGOFDSzCgeDsTPMu0mXxTKF4eooM0sX1hFGcooJlQX16rSgoKRgSVXDisNGYecoGtQJttzKu2ycRN2cUyjfgUNt+hEeUPFiTjKkL8wBdrepj4Q/z18BzD5B3baf2vs3w5BRkb4AAAA=[0m[Pipeline] bat
+
+C:\Users\arvin\IdeaProjects\Docker_Data\05-jenkins-ci-cd\01-jenkins\volumes\node\workspace\PlaywrightBuilderAndRunner>docker login -u shaarv70 -p **** 
+WARNING! Using --password via the CLI is insecure. Use --password-stdin.
+Login Succeeded
+[8mha:////4Bz2M+eOQD2dhW/qa73c+yPwd2Ua/C/nTlRh5OFpRVk0AAAApB+LCAAAAAAAAP9tjbEOwiAURV9rHFwd/QiaNG7GyZWw+AXYIkLJexSodPKL/DX/QbSJk3e4uecu5/mCdQxwpKCZVTgYjJ1h3k26LJYpDFdHmVm6sI4wklNMqCyoV6cFBSUFS6oaVhw2CjtH0aBOsOVW3mXjJOrmnEL5Dhxq04/wgIoXc5IhfWEOsLtNfST8ef4KYPYJ6rb91N6/AQQGEN6+AAAA[0m[Pipeline] bat
+
+C:\Users\arvin\IdeaProjects\Docker_Data\05-jenkins-ci-cd\01-jenkins\volumes\node\workspace\PlaywrightBuilderAndRunner>docker tag shaarv70/playwright:latest shaarv70/playwright:10 
+[8mha:////4Ajce9GroWJhY14tKNuATCR4aPXWymGiLcJD5QUlARUAAAAApB+LCAAAAAAAAP9tjbEOwiAURV9rHFwd/QiaNHEyTq6ExS/AFhFK3qNApZNf5K/5D6JNnLzDzT13Oc8XrGOAIwXNrMLBYOwM827SZbFMYbg6yszShXWEkZxiQmVBvTotKCgpWFLVsOKwUdg5igZ1gi238i4bJ1E35xTKd+BQm36EB1S8mJMM6QtzgN1t6iPhz/NXALNPULftp/b+DUU3C8e+AAAA[0m[Pipeline] bat
+
+C:\Users\arvin\IdeaProjects\Docker_Data\05-jenkins-ci-cd\01-jenkins\volumes\node\workspace\PlaywrightBuilderAndRunner>docker push shaarv70/playwright:10 
+The push refers to repository [docker.io/shaarv70/playwright]
+4db20b60f57e: Waiting
+db70b636acc3: Waiting
+d705f7a361da: Waiting
+dc0a6f459305: Waiting
+27d33bbd1a12: Waiting
+54609b48ebc1: Waiting
+b7033b30aa95: Waiting
+ecd31483f9fd: Waiting
+2fba44365cc9: Waiting
+b7b2798b3340: Waiting
+7e333ade6dee: Waiting
+4f4fb700ef54: Waiting
+ae2f3998d34a: Waiting
+2fba44365cc9: Waiting
+b7b2798b3340: Waiting
+7e333ade6dee: Waiting
+4f4fb700ef54: Waiting
+ae2f3998d34a: Waiting
+ecd31483f9fd: Waiting
+db70b636acc3: Waiting
+d705f7a361da: Waiting
+dc0a6f459305: Waiting
+27d33bbd1a12: Waiting
+54609b48ebc1: Waiting
+b7033b30aa95: Waiting
+4db20b60f57e: Waiting
+ecd31483f9fd: Waiting
+2fba44365cc9: Waiting
+b7b2798b3340: Waiting
+7e333ade6dee: Waiting
+4f4fb700ef54: Waiting
+ae2f3998d34a: Waiting
+4db20b60f57e: Waiting
+db70b636acc3: Waiting
+d705f7a361da: Waiting
+dc0a6f459305: Waiting
+27d33bbd1a12: Waiting
+54609b48ebc1: Waiting
+b7033b30aa95: Waiting
+7e333ade6dee: Waiting
+4f4fb700ef54: Waiting
+ae2f3998d34a: Waiting
+ecd31483f9fd: Waiting
+2fba44365cc9: Waiting
+b7b2798b3340: Waiting
+27d33bbd1a12: Waiting
+54609b48ebc1: Waiting
+b7033b30aa95: Waiting
+4db20b60f57e: Waiting
+db70b636acc3: Waiting
+d705f7a361da: Waiting
+dc0a6f459305: Waiting
+dc0a6f459305: Waiting
+27d33bbd1a12: Waiting
+54609b48ebc1: Waiting
+b7033b30aa95: Waiting
+4db20b60f57e: Waiting
+db70b636acc3: Waiting
+d705f7a361da: Waiting
+7e333ade6dee: Waiting
+4f4fb700ef54: Waiting
+ae2f3998d34a: Waiting
+ecd31483f9fd: Waiting
+2fba44365cc9: Waiting
+b7b2798b3340: Waiting
+4f4fb700ef54: Waiting
+ae2f3998d34a: Waiting
+ecd31483f9fd: Waiting
+2fba44365cc9: Waiting
+b7b2798b3340: Waiting
+7e333ade6dee: Waiting
+54609b48ebc1: Waiting
+b7033b30aa95: Waiting
+4db20b60f57e: Waiting
+db70b636acc3: Waiting
+d705f7a361da: Waiting
+dc0a6f459305: Waiting
+27d33bbd1a12: Waiting
+7e333ade6dee: Waiting
+4f4fb700ef54: Waiting
+ae2f3998d34a: Waiting
+ecd31483f9fd: Waiting
+2fba44365cc9: Waiting
+b7b2798b3340: Waiting
+27d33bbd1a12: Waiting
+54609b48ebc1: Waiting
+b7033b30aa95: Waiting
+4db20b60f57e: Waiting
+db70b636acc3: Waiting
+d705f7a361da: Waiting
+dc0a6f459305: Waiting
+7e333ade6dee: Waiting
+4f4fb700ef54: Waiting
+ae2f3998d34a: Waiting
+ecd31483f9fd: Waiting
+2fba44365cc9: Waiting
+b7b2798b3340: Waiting
+27d33bbd1a12: Waiting
+54609b48ebc1: Waiting
+b7033b30aa95: Waiting
+4db20b60f57e: Waiting
+db70b636acc3: Waiting
+d705f7a361da: Waiting
+dc0a6f459305: Waiting
+ae2f3998d34a: Waiting
+ecd31483f9fd: Waiting
+2fba44365cc9: Waiting
+b7b2798b3340: Waiting
+7e333ade6dee: Waiting
+4f4fb700ef54: Waiting
+b7033b30aa95: Waiting
+4db20b60f57e: Waiting
+db70b636acc3: Waiting
+d705f7a361da: Waiting
+dc0a6f459305: Waiting
+27d33bbd1a12: Waiting
+54609b48ebc1: Waiting
+7e333ade6dee: Waiting
+4f4fb700ef54: Waiting
+ae2f3998d34a: Waiting
+ecd31483f9fd: Waiting
+2fba44365cc9: Waiting
+b7b2798b3340: Waiting
+dc0a6f459305: Waiting
+27d33bbd1a12: Waiting
+54609b48ebc1: Waiting
+b7033b30aa95: Waiting
+4db20b60f57e: Waiting
+db70b636acc3: Waiting
+d705f7a361da: Waiting
+b7033b30aa95: Waiting
+4db20b60f57e: Waiting
+db70b636acc3: Waiting
+d705f7a361da: Waiting
+dc0a6f459305: Waiting
+27d33bbd1a12: Waiting
+54609b48ebc1: Waiting
+ae2f3998d34a: Waiting
+ecd31483f9fd: Waiting
+2fba44365cc9: Waiting
+b7b2798b3340: Waiting
+7e333ade6dee: Waiting
+4f4fb700ef54: Waiting
+ae2f3998d34a: Waiting
+ecd31483f9fd: Waiting
+2fba44365cc9: Waiting
+b7b2798b3340: Waiting
+7e333ade6dee: Waiting
+4f4fb700ef54: Waiting
+b7033b30aa95: Waiting
+4db20b60f57e: Waiting
+db70b636acc3: Waiting
+d705f7a361da: Waiting
+dc0a6f459305: Waiting
+27d33bbd1a12: Waiting
+54609b48ebc1: Waiting
+b7033b30aa95: Waiting
+4db20b60f57e: Waiting
+db70b636acc3: Waiting
+d705f7a361da: Waiting
+dc0a6f459305: Waiting
+27d33bbd1a12: Waiting
+54609b48ebc1: Waiting
+ae2f3998d34a: Waiting
+ecd31483f9fd: Waiting
+2fba44365cc9: Waiting
+b7b2798b3340: Waiting
+7e333ade6dee: Waiting
+4f4fb700ef54: Waiting
+b7b2798b3340: Waiting
+7e333ade6dee: Waiting
+4f4fb700ef54: Waiting
+ae2f3998d34a: Waiting
+ecd31483f9fd: Waiting
+2fba44365cc9: Waiting
+d705f7a361da: Waiting
+dc0a6f459305: Waiting
+27d33bbd1a12: Waiting
+54609b48ebc1: Waiting
+b7033b30aa95: Waiting
+4db20b60f57e: Waiting
+db70b636acc3: Waiting
+27d33bbd1a12: Waiting
+54609b48ebc1: Waiting
+b7033b30aa95: Waiting
+4db20b60f57e: Waiting
+db70b636acc3: Waiting
+d705f7a361da: Waiting
+dc0a6f459305: Waiting
+7e333ade6dee: Waiting
+4f4fb700ef54: Waiting
+ae2f3998d34a: Waiting
+ecd31483f9fd: Waiting
+2fba44365cc9: Waiting
+b7b2798b3340: Waiting
+54609b48ebc1: Waiting
+b7033b30aa95: Waiting
+4db20b60f57e: Waiting
+db70b636acc3: Waiting
+d705f7a361da: Waiting
+dc0a6f459305: Waiting
+27d33bbd1a12: Waiting
+4f4fb700ef54: Waiting
+ae2f3998d34a: Waiting
+ecd31483f9fd: Waiting
+2fba44365cc9: Waiting
+b7b2798b3340: Waiting
+7e333ade6dee: Waiting
+b7b2798b3340: Waiting
+7e333ade6dee: Waiting
+4f4fb700ef54: Waiting
+ae2f3998d34a: Waiting
+ecd31483f9fd: Waiting
+2fba44365cc9: Waiting
+d705f7a361da: Waiting
+dc0a6f459305: Waiting
+27d33bbd1a12: Waiting
+54609b48ebc1: Waiting
+b7033b30aa95: Waiting
+4db20b60f57e: Waiting
+db70b636acc3: Waiting
+27d33bbd1a12: Waiting
+54609b48ebc1: Waiting
+b7033b30aa95: Waiting
+4db20b60f57e: Waiting
+db70b636acc3: Waiting
+d705f7a361da: Waiting
+dc0a6f459305: Waiting
+7e333ade6dee: Waiting
+4f4fb700ef54: Waiting
+ae2f3998d34a: Waiting
+ecd31483f9fd: Waiting
+2fba44365cc9: Waiting
+b7b2798b3340: Waiting
+b7033b30aa95: Waiting
+4db20b60f57e: Waiting
+db70b636acc3: Waiting
+d705f7a361da: Waiting
+dc0a6f459305: Waiting
+27d33bbd1a12: Waiting
+54609b48ebc1: Waiting
+ae2f3998d34a: Waiting
+ecd31483f9fd: Waiting
+2fba44365cc9: Waiting
+b7b2798b3340: Waiting
+7e333ade6dee: Waiting
+4f4fb700ef54: Waiting
+ae2f3998d34a: Waiting
+ecd31483f9fd: Layer already exists
+2fba44365cc9: Waiting
+b7b2798b3340: Waiting
+7e333ade6dee: Waiting
+4f4fb700ef54: Waiting
+b7033b30aa95: Waiting
+4db20b60f57e: Waiting
+db70b636acc3: Waiting
+d705f7a361da: Waiting
+dc0a6f459305: Waiting
+27d33bbd1a12: Waiting
+54609b48ebc1: Waiting
+dc0a6f459305: Waiting
+27d33bbd1a12: Waiting
+54609b48ebc1: Waiting
+b7033b30aa95: Waiting
+4db20b60f57e: Waiting
+db70b636acc3: Waiting
+d705f7a361da: Waiting
+7e333ade6dee: Waiting
+4f4fb700ef54: Waiting
+ae2f3998d34a: Waiting
+2fba44365cc9: Waiting
+b7b2798b3340: Waiting
+d705f7a361da: Waiting
+dc0a6f459305: Waiting
+27d33bbd1a12: Waiting
+54609b48ebc1: Waiting
+b7033b30aa95: Waiting
+4db20b60f57e: Layer already exists
+db70b636acc3: Waiting
+b7b2798b3340: Waiting
+7e333ade6dee: Waiting
+4f4fb700ef54: Layer already exists
+ae2f3998d34a: Layer already exists
+2fba44365cc9: Waiting
+dc0a6f459305: Waiting
+27d33bbd1a12: Waiting
+54609b48ebc1: Waiting
+b7033b30aa95: Waiting
+db70b636acc3: Waiting
+d705f7a361da: Waiting
+7e333ade6dee: Waiting
+2fba44365cc9: Waiting
+b7b2798b3340: Waiting
+b7033b30aa95: Waiting
+db70b636acc3: Waiting
+d705f7a361da: Waiting
+dc0a6f459305: Waiting
+27d33bbd1a12: Waiting
+54609b48ebc1: Layer already exists
+2fba44365cc9: Waiting
+b7b2798b3340: Waiting
+7e333ade6dee: Waiting
+27d33bbd1a12: Waiting
+db70b636acc3: Waiting
+d705f7a361da: Waiting
+dc0a6f459305: Waiting
+b7b2798b3340: Waiting
+db70b636acc3: Waiting
+d705f7a361da: Waiting
+dc0a6f459305: Waiting
+27d33bbd1a12: Waiting
+b7b2798b3340: Waiting
+b7b2798b3340: Waiting
+7e333ade6dee: Pushed
+b7033b30aa95: Pushed
+db70b636acc3: Pushed
+27d33bbd1a12: Pushed
+b7b2798b3340: Pushed
+2fba44365cc9: Pushed
+d705f7a361da: Pushed
+dc0a6f459305: Pushed
+10: digest: sha256:e2aed36a39c30cbc850df650dfe1303a86c56d2f050e40dccf788fe746c972d3 size: 856
+[8mha:////4KcLDeMb5ucH2WickzhoHyAAi8jKTxHi1NEQyLWrGTaFAAAApB+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggyk8LGsbJlaDwBJogQ5n8CRFJ5Iq/mHUQzY+UWO/u2ec8XrGOAIwXNrMLBYOwM827SZbFMYbg6yszShXWEkZxiQmVBvTotKCgpWFLVsOKwUdg5igZ1gi238i4bJ1E35xTKd+BQm36EB1S8mJMM6QtzgN1t6iPhz/NXALP3Cep2/6n2DdZseDS+AAAA[0m[Pipeline] }
+[8mha:////4HLCIDufZU+51cOeLcllS9UzQX2nHFBfxmFYrsuRebWkAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiaCgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrd/lPbN8nuLWa+AAAA[0m[Pipeline] // withCredentials
+[8mha:////4HNCBtfHGYS9aXyKvG18ar6DHM1fwyMqMtXdSDDUd2GjAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCqJAQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrd/lPbN4psfOC+AAAA[0m[Pipeline] }
+[8mha:////4Ji493A/AMjYdsKZrwg5BRs4FYHUno/Eye7xLDlUt4qYAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIi6CJEldZKwwtMbIwT687YDknFi/gaf8AiEhVbrHa2mdcb1jHAiYPBXtNgKXYWvRtNXjhxGK6OJ+z5gh1TZKex1VPLSjcLtpw0LClKWAnYaOocR0smwVb08iErJ8lU5xTydxRQWnWHJxQim5MM6QtzgN1tVJHp5/krgNn7BOWhzrWvP0hU0Xm+AAAA[0m[Pipeline] // stage
+[8mha:////4PnVTiiFS9vY4+1YuX0dKpYfOFwZb049f4/ltmZA44RuAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogU1BExdY2ycIKQhJA2+r8kKe3EibgadyBQiQkPlm3Jes8XVDHAkYJlncHeYVSODX60ObGJQn/xNLGOzkwRRvKGCTMJ0qZdqqBkYFFRworD2qDyFB3aBBveybusvURbn1LI24FD6fQNHlDwTE4ypG+ZA2yvo46EP85fAMxDgnLfZGt2n2f1BowFkRnCAAAA[0m[Pipeline] stage
+[8mha:////4Na382HVTJNVJ+OAHvi1RX2LnPbQOUzL9ba4AWnmRErMAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogUxIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfLDbrb9/Cw+ty4Up8IAAAA=[0m[Pipeline] { (Pre-pull Docker Image)
+[8mha:////4AZDQZbJfxHSjFNG2oiqdhE06Rla1kyzWtC6aaQvUt2vAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIioERUaS03vMDExjix7oztkFS8iK/xBwKRqNhitbPNPF+wTBGOHC22hjpHqXEYfG+nhQPH7uJ5wJbP2DAl9galGSRrU88oORuYU5SwELAy1HhOjmyGtWjVXVVeka1OOU7fQUDp9A0eUIjJnFXMXxgjbK69Tkw/z18BjCFDud9+ahfettHKdL4AAAA=[0m[Pipeline] bat
+
+C:\Users\arvin\IdeaProjects\Docker_Data\05-jenkins-ci-cd\01-jenkins\volumes\node\workspace\PlaywrightBuilderAndRunner>docker pull shaarv70/playwright:10 
+10: Pulling from shaarv70/playwright
+Digest: sha256:e2aed36a39c30cbc850df650dfe1303a86c56d2f050e40dccf788fe746c972d3
+Status: Image is up to date for shaarv70/playwright:10
+docker.io/shaarv70/playwright:10
+[8mha:////4FZQ3Hd2hXbU3S4J178M0+bjviXn4nDLovymD0bmWItPAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIilBJR0VppeIFJjLFj3Tm2g1PxIr7GHwhEomKL1c4283zBOgY4ctBoFfWGYmvQu1HPCzOH/uo4o+ULtkyRncJG5YY7dVqw4aRgSVHCSsBGUes4GtIJtsLKu6ycJF2dU5i/g4DSdAM8oBCzOcmQvjAF2N3GLjL9PH8FMHmfoKzrT+3fKpbQQr4AAAA=[0m[Pipeline] }
+[8mha:////4NKycwRE21DiBnVK0OG0ajaLTClXxkuLVxwae468HAZ9AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCBB2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7nbf2r7BgSW0ii+AAAA[0m[Pipeline] // stage
+[8mha:////4DIFiwCngjvklLnPj+N/7Is62hj1JCSqgINVj9g2d3sgAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUqGJCTF2jLJwgJCGkjf4vSUo7cSKuxh0IVGLCg2Vbst7zBVUMcKRgWWewdxiVY4MfbU5sotBfPE2sozNThJG8YcJMgrRplyooGVhUlLDisDaoPEWHNsGGd/Iuay/R1qcU8nbgUDp9gwcUPJOTDOlb5gDb66gj4Y/zFwDzkKDcNdma/edZvQE/lFxJwgAAAA==[0m[Pipeline] stage
+[8mha:////4Lk7wXe62U0l9HV6BRfbStB+dFGJ3/qzl/bwhmp+gYTTAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0QLAgpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD02yRsvCAAAA[0m[Pipeline] { (Run Tests)
+[8mha:////4D00wiPCjDtBRqh1x39cIZzY6AwOiiVgKn8KB1XQ9xI0AAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0QIIBMXWNsnCC0ISQNvq//KS0EyfiatyBlkpMeLBsS9Z7vaGIDCdiJxqLrcdYe9GF3k1JDMTtNdAgGrqImjBSsELZQZGx1VIVJQuLshxWEtYW60DRo0uwkY1+6DJodOU58bQdJeTe3OEJmZzISXP6lpFhe+tNJPxx/gJg7BLku/1sh/lZfADpB/iZwgAAAA==[0m[Pipeline] script
+[8mha:////4M06Z51HnnVad4KqyfKpeET2vJxDPvCYfA+ApMsRJD08AAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0YAAJMXWNsnCC0ISQNvq//KS0EyfiatyBlkpMeLBsS9Z7vaGIDCdiJxqLrcdYe9GF3k1JDMTtNdAgGrqImjBSsELZQZGx1VIVJQuLshxWEtYW60DRo0uwkY1+6DJodOU58bQdJeTe3OEJmZzISXP6lpFhe+tNJPxx/gJg7BLku/1sh/lZfAD8aiCpwgAAAA==[0m[Pipeline] {
+[8mha:////4D2qNDxXa8yAwGG/0qAwYYBGiHHGSEISBEHDCTcKMWB2AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJS0IAQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHN65NpgK+AAAA[0m[Pipeline] bat
+
+C:\Users\arvin\IdeaProjects\Docker_Data\05-jenkins-ci-cd\01-jenkins\volumes\node\workspace\PlaywrightBuilderAndRunner>docker-compose up --scale RegressionChrome=1 
+time="2025-04-01T02:03:29+05:30" level=warning msg="C:\\Users\\arvin\\IdeaProjects\\Docker_Data\\05-jenkins-ci-cd\\01-jenkins\\volumes\\node\\workspace\\PlaywrightBuilderAndRunner\\docker-compose.yaml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+ Network playwrightbuilderandrunner_default  Creating
+ Network playwrightbuilderandrunner_default  Created
+ Container playwrightbuilderandrunner-RegressionChrome-1  Creating
+ Container playwrightbuilderandrunner-RegressionChrome-1  Created
+Attaching to RegressionChrome-1
+RegressionChrome-1  | Running Playwright tests using npm script: test:RegressionChrome
+RegressionChrome-1  | 
+RegressionChrome-1  | > playwright@1.0.0 test:RegressionChrome
+RegressionChrome-1  | > cross-env SECRET_KEY='shaarv70' npx playwright test EncryptionDecryption.spec.ts --grep=@Regression --project=chromium
+RegressionChrome-1  | 
+RegressionChrome-1  | 
+RegressionChrome-1  | Running 1 test using 1 worker
+RegressionChrome-1  | 
+RegressionChrome-1  | [1A[2K[1/1] [chromium] â€º tests/Day-15/EncryptionDecryption.spec.ts:17:1 â€º Successful Login @Regression
+RegressionChrome-1  | [1A[2K[chromium] â€º tests/Day-15/EncryptionDecryption.spec.ts:17:1 â€º Successful Login @Regression
+RegressionChrome-1  | U2FsdGVkX19yYW67meLWWTOM1EjLMQ6FBeOcuA8qLes=
+RegressionChrome-1  | 
+RegressionChrome-1  | [1A[2KU2FsdGVkX1/mwX7LOI2b0UDHGKwXCSrICuuzVlzrQS0=
+RegressionChrome-1  | 
+RegressionChrome-1  | [1A[2K[2/1] (retries) [chromium] â€º tests/Day-15/EncryptionDecryption.spec.ts:17:1 â€º Successful Login @Regression (retry #1)
+RegressionChrome-1  | [1A[2KU2FsdGVkX181DN8Rs7/oXDdL/easi44ZnVTwTOF7sSI=
+RegressionChrome-1  | 
+RegressionChrome-1  | [1A[2KU2FsdGVkX18za5cK7e0ZgYJQszsDbWJZjHOg6VjFATY=
+RegressionChrome-1  | 
+RegressionChrome-1  | [1A[2K  1) [chromium] â€º tests/Day-15/EncryptionDecryption.spec.ts:17:1 â€º Successful Login @Regression â”€â”€â”€â”€
+RegressionChrome-1  | 
+RegressionChrome-1  |     [31mTest timeout of 1000ms exceeded.[39m
+RegressionChrome-1  | 
+RegressionChrome-1  |     Error: locator.click: Test timeout of 1000ms exceeded.
+RegressionChrome-1  |     Call log:
+RegressionChrome-1  |     [2m  - waiting for locator('[data-test="login-button"]')[22m
+RegressionChrome-1  |     [2m    - locator resolved to <input type="submit" value="Login" id="login-button" name="login-button" data-test="login-button" class="submit-button btn_action"/>[22m
+RegressionChrome-1  |     [2m  - attempting click action[22m
+RegressionChrome-1  |     [2m    - waiting for element to be visible, enabled and stable[22m
+RegressionChrome-1  |     [2m    - element is visible, enabled and stable[22m
+RegressionChrome-1  |     [2m    - scrolling into view if needed[22m
+RegressionChrome-1  |     [2m    - done scrolling[22m
+RegressionChrome-1  |     [2m    - performing click action[22m
+RegressionChrome-1  | 
+RegressionChrome-1  | 
+RegressionChrome-1  |       30 |     await page.locator('[data-test="username"]').fill(decryptUsername);
+RegressionChrome-1  |       31 |     await page.locator('[data-test="password"]').fill(decryptPassword);
+RegressionChrome-1  |     > 32 |     await page.locator('[data-test="login-button"]').click();
+RegressionChrome-1  |          |                                                      ^
+RegressionChrome-1  |       33 |     await expect(page.locator('[data-test="shopping-cart-link"]')).toBeVisible();
+RegressionChrome-1  |       34 | })
+RegressionChrome-1  |       35 |
+RegressionChrome-1  |         at /app/tests/Day-15/EncryptionDecryption.spec.ts:32:54
+RegressionChrome-1  | 
+RegressionChrome-1  |     attachment #1: screenshot (image/png) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+RegressionChrome-1  |     test-results/Day-15-EncryptionDecryption-Successful-Login-chromium/test-failed-1.png
+RegressionChrome-1  |     â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+RegressionChrome-1  | 
+RegressionChrome-1  |     attachment #2: video (video/webm) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+RegressionChrome-1  |     test-results/Day-15-EncryptionDecryption-Successful-Login-chromium/video.webm
+RegressionChrome-1  |     â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+RegressionChrome-1  | 
+RegressionChrome-1  |     attachment #3: trace (application/zip) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+RegressionChrome-1  |     test-results/Day-15-EncryptionDecryption-Successful-Login-chromium/trace.zip
+RegressionChrome-1  |     Usage:
+RegressionChrome-1  | 
+RegressionChrome-1  |         npx playwright show-trace test-results/Day-15-EncryptionDecryption-Successful-Login-chromium/trace.zip
+RegressionChrome-1  | 
+RegressionChrome-1  |     â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+RegressionChrome-1  | 
+RegressionChrome-1  | 
+RegressionChrome-1  | [1A[2K  1 flaky
+RegressionChrome-1  |     [chromium] â€º tests/Day-15/EncryptionDecryption.spec.ts:17:1 â€º Successful Login @Regression â”€â”€â”€â”€â”€
+RegressionChrome-1  | 
+RegressionChrome-1  | To open last HTML report run:
+RegressionChrome-1  | 
+RegressionChrome-1  |   npx playwright show-report
+RegressionChrome-1  | 
+RegressionChrome-1  | Ortoni HTML report generated at /app/playwright-report/report.html
+[KRegressionChrome-1 exited with code 0
+[8mha:////4CMdzbYu5pf2ui3p2sIVbkSwVb16OTSUWhzDOJGDdqoxAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCBAUSSkVrueEFJjHGiXUXbAen4kV8jT9gEYmKLVY728zrDcvgoWZvsNPUWwqNxcGNJi9M7Pur44QdX7BhCuw0Sp0kt/o0o+SoYU5RwkLASlPjOFgyEdaiUw9VOUWmOkefv6OA0rZ3eEIhsjkqH78wedjcxjYw/Tx/BTANQ4Ryv821O3wArmI/eL4AAAA=[0m[Pipeline] }
+[8mha:////4KuhaNhXakUC1SkJnuZuYLiUIzfhSvbeYnlHPZn0ydSJAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiBBIFSkVrueEFJjHGiXUXbAen4kV8jT9gEYmKLVY728zrDcvgoWZvsNPUWwqNxcGNJi9M7Pur44QdX7BhCuw0Sp0kt/o0o+SoYU5RwkLASlPjOFgyEdaiUw9VOUWmOkefv6OA0rZ3eEIhsjkqH78wedjcxjYw/Tx/BTANQ4Ryv821O3wAmqzcI74AAAA=[0m[Pipeline] // script
+[8mha:////4POeXg7P67ed7kscCHpU4mEFGP8QrbhlHpTg+5K2Z68iAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUAsSCOrFGXThBaEJIGv1fkpR04kRcjTsQqMSEB8u2ZL3nC6rgoSGvmVXYGwydYYMbdU4ske8vjhKzdGYdYSCnWKtSS1Id59pSVDCrKGHBYamwcxQM6ggrbsVd1E6grk/R5+3AoTTyBg8oeCZH4eO3TB7W11EGwh/nLwCmIUK53WfbbT7P6g3UqJIMwgAAAA==[0m[Pipeline] script
+[8mha:////4Dk3m+Ub8gtT+YsHfFUIcR21X0P6L+cDXXdlzqQx0XaYAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUAjbE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5AfdrPt52fxAXzhjwPCAAAA[0m[Pipeline] {
+[8mha:////4Pxj5cIA3zsxI+13XTOGTIA9krtdGU53snxsQG9T3v9sAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSkA5R0VppeIFJjLFj3Tm2g1PxIr7GHwhEomKL1c4283zBOgY4ctBoFfWGYmvQu1HPCzOH/uo4o+ULtkyRncJG5YY7dVqw4aRgSVHCSsBGUes4GtIJtsLKu6ycJF2dU5i/g4DSdAM8oBCzOcmQvjAF2N3GLjL9PH8FMPkEZb3/VO3fhXiFur4AAAA=[0m[Pipeline] fileExists
+[8mha:////4NxLcO0rAubTb/2Sgm0jZtOQnUjaiA+ua+5M9X+sXen1AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSABWiSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwZyt32U/vwBsRJnqO+AAAA[0m[Pipeline] error
+[8mha:////4LPvZFuzS1llgOMwtZel1PJMIw02d/6b/77tZOKfoBbmAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSgGgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrd/lPbN/zO9Xa+AAAA[0m[Pipeline] }
+[8mha:////4Blv71O1UndFanJbErkWT7JzDhNJ+SU0cVpvdxo+xLwzAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiISQKRJXWcsMLTGyME+vO2A5JxYv4Gn8gEImKLVY728zzBcsU4cjRYmuoc5Qah8H3dlo4cOwungds+YwNU2JvUJpBsjb1jJKzgTlFCQsBK0ON5+TIZliLVt1V5RXZ6pTj9B0ElE7f4AGFmMxZxfyFMcLm2uvE9PP8FcAYQoZyt//U9g3PLa7KvgAAAA==[0m[Pipeline] // script
+[8mha:////4CgHtJwjNLd5rUQPN54UyPOnNh/d/spsA/kw8g5Vsq+jAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSgBASSkVrueEFJjHGiXUXbAen4kV8jT9gEYmKLVY728zrDcvgoWZvsNPUWwqNxcGNJi9M7Pur44QdX7BhCuw0Sp0kt/o0o+SoYU5RwkLASlPjOFgyEdaiUw9VOUWmOkefv6OA0rZ3eEIhsjkqH78wedjcxjYw/Tx/BTANQ4Ryd8i13X8AxM3Uc74AAAA=[0m[Pipeline] }
+[8mha:////4J79tK/FSKASngZhm8TQnoLkKlCjubBTTdHObuHO/OSzAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSAAVCqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFDuDrm2+w/bT4EhvgAAAA==[0m[Pipeline] // stage
+[8mha:////4PlMw6hdIkQlAuayfequri2WdkTVSqsx0aZgy5eJ4XR2AAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogUhJhQJ9aoCycITQhJo/9LkpJOnIircQcClZjwYNmWrPd8QRU8NOQ1swp7g6EzbHCjzokl8v3FUWKWzqwjDOQUa1VqSarjXFuKCmYVJSw4LBV2joJBHWHFrbiL2gnU9Sn6vB04lEbe4AEFz+QofPyWycP6OspA+OP8BcA0RCi3u2z7zedZvQG2MEF6wgAAAA==[0m[Pipeline] stage
+[8mha:////4HkPNllxSuCG7h33a8RCWWq5Ltq0MofU3B6bsalOvuQ+AAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogUBibE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5AfdrPt52fxAW2++SvCAAAA[0m[Pipeline] { (Declarative: Post Actions)
+[8mha:////4LviQIbenr3AEOgB6zG5J+3fiR8efoot2hFdsCq0XgINAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIikKgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUO63n9qFN4OkKLa+AAAA[0m[Pipeline] archiveArtifacts
+Archiving artifacts
+[8mha:////4J1sk2M8QMnV0mqlR64oI7oXkQENBwji+HznMX4SSD2fAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIihKgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUO63n9qFN8KVM6++AAAA[0m[Pipeline] bat
+
+C:\Users\arvin\IdeaProjects\Docker_Data\05-jenkins-ci-cd\01-jenkins\volumes\node\workspace\PlaywrightBuilderAndRunner>docker-compose down --rmi all --volumes --remove-orphans 
+time="2025-04-01T02:03:49+05:30" level=warning msg="C:\\Users\\arvin\\IdeaProjects\\Docker_Data\\05-jenkins-ci-cd\\01-jenkins\\volumes\\node\\workspace\\PlaywrightBuilderAndRunner\\docker-compose.yaml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+ Container playwrightbuilderandrunner-RegressionChrome-1  Stopping
+ Container playwrightbuilderandrunner-RegressionChrome-1  Stopped
+ Container playwrightbuilderandrunner-RegressionChrome-1  Removing
+ Container playwrightbuilderandrunner-RegressionChrome-1  Removed
+ Image shaarv70/playwright:latest  Removing
+ Network playwrightbuilderandrunner_default  Removing
+ Image shaarv70/playwright:latest  Removed
+ Network playwrightbuilderandrunner_default  Removed
+[8mha:////4IDfOI1L5NXbt3+vbTlvKl+/V9L4TUGS5wMfOHPq3b0XAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiJKgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUO63n9qFNwUDcuC+AAAA[0m[Pipeline] bat
+
+C:\Users\arvin\IdeaProjects\Docker_Data\05-jenkins-ci-cd\01-jenkins\volumes\node\workspace\PlaywrightBuilderAndRunner>docker system prune -f 
+Deleted build cache objects:
+tod7zbu5ozaax53fra39g0t01
+rb2pxudz6rej06greu4m6u06h
+kfw7rpb53ahdym8ye6u60ygru
+
+Total reclaimed space: 1.487MB
+[8mha:////4LbNJg64F1wCk97a5prRnpjkcjivAWpKWvzhAF7klSQGAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiilSIitZKwwtMYowd686xHZyKF/E1/kAgEhVbrHa2mecL1jHAkYNGq6g3FFuD3o16Xpg59FfHGS1fsGWK7BQ2KjfcqdOCDScFS4oSVgI2ilrH0ZBOsBVW3mXlJOnqnML8HQSUphvgAYWYzUmG9IUpwO42dpHp5/krgMknKOv9p2r/BkQyafm+AAAA[0m[Pipeline] bat
+
+C:\Users\arvin\IdeaProjects\Docker_Data\05-jenkins-ci-cd\01-jenkins\volumes\node\workspace\PlaywrightBuilderAndRunner>docker image rm shaarv70/playwright:10 
+Untagged: shaarv70/playwright:10
+Deleted: sha256:e2aed36a39c30cbc850df650dfe1303a86c56d2f050e40dccf788fe746c972d3
+[8mha:////4A4gnZVxLleKmx7iVCSIogaxCqem7XPJkEuyI9KgGx+2AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiCmgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUO62n9qHN4dhRNK+AAAA[0m[Pipeline] bat
+
+C:\Users\arvin\IdeaProjects\Docker_Data\05-jenkins-ci-cd\01-jenkins\volumes\node\workspace\PlaywrightBuilderAndRunner>docker logout 
+Removing login credentials for https://index.docker.io/v1/
+[8mha:////4DNVQ0XOHR1O6cvntM+fv+GWA5p3gSeF6nOdCChk2KvkAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiCkSBqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDhnK3/dQ+vAHGUF/LvgAAAA==[0m[Pipeline] emailext
+Sending email to: sharmaarvindsharma935@gmail.com
+Connection error sending email, retrying once more in 10 seconds...
+Connection error sending email, retrying once more in 10 seconds...
+Failed after second try sending email
+[8mha:////4P9/BecUEzPsRScaqWkSbIc5kiex/ae8jtAFaN52mOg5AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiCiQkRJXWcsMLTGyME+vO2A5JxYv4Gn8gEImKLVY728zzBcsU4cjRYmuoc5Qah8H3dlo4cOwungds+YwNU2JvUJpBsjb1jJKzgTlFCQsBK0ON5+TIZliLVt1V5RXZ6pTj9B0ElE7f4AGFmMxZxfyFMcLm2uvE9PP8FcAYQoZyt//U9g1V9J0dvgAAAA==[0m[Pipeline] }
+[8mha:////4JfRpkN1o06Q7q79/L8l1pDxAfHzzZAsTlT2Laaf066QAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJCQ4EQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrd/lPbN2YXxqG+AAAA[0m[Pipeline] // stage
+[8mha:////4Pq5d5eEaweHiLm4gZQ2Im/OXyDAV1e8eG9rycE1ZvQvAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICQqJBqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFAetrl2+w+NyERKvgAAAA==[0m[Pipeline] }
+[8mha:////4OcGS64Z/H1TnHjfW496gRU6w+wYWuJmCKc8PcIlTy+eAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKiUNAgqrRWGl5gYmOcWHfGdkgqXsTX+AMWkajYYrWzzbzesI4BThwM9poGS7Gz6N1o8sKJw3B1PGHPF+yYIjuNrZ5aVrpZsOWkYUlRwkrARlPnOFoyCbailw9ZOUmmOqeQv6OA0qo7PKEQ2ZxkSF+YA+xuo4pMP89fAczeJygPda56/wG+Kx/2vgAAAA==[0m[Pipeline] // withEnv
+[8mha:////4PGMXQgLjZay0Jm+SUP5R8LHfHnJSIcXpWULIv34O6naAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKiUNAgqrRWGl5gYmOcWHfGdkgqXsTX+AMWkajYYrWzzbzesI4BThwM9poGS7Gz6N1o8sKJw3B1PGHPF+yYIjuNrZ5aVrpZsOWkYUlRwkrARlPnOFoyCbailw9ZOUmmOqeQv6OA0qo7PKEQ2ZxkSF+YA+xuo4pMP89fAczeJygP+1x1/QGqCILpvgAAAA==[0m[Pipeline] }
+[8mha:////4PfAWPrymXVSJabbcy0IKffLqZfmcvpb6EEcT+jC286qAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICQqJBqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFAe9rl22w+Z69lVvgAAAA==[0m[Pipeline] // withEnv
+[8mha:////4NXnlXC7YPKl7/LGqmbD+1cYQvRb3kpr5prx9NO3WCh/AAAAox+LCAAAAAAAAP9tjTESgjAQRT84FraWHiI0jI1jZZuh8QQRYgxkdjFZhMoTeTXvICMzVv7qv9e81xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IcK42NpTpw8uQEW92ahymCIVecJc7uoJH75o4nMj2XxUT5whSxuw1NYvp1/gYw9b0g35eCrPwA/b3AOr0AAAA=[0m[Pipeline] }
+[8mha:////4FISw1XnZuchT99ZG5eHsA8jNVBlcDV9UogLc2fxRvDMAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIpEDSIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2HWCfL8TZNsP7gHEmb0AAAA=[0m[Pipeline] // node
+[8mha:////4Nyyhi4zJIJEcrvJOiLcGsB3tX/cU53Ut8vvhUZGByltAAAAox+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6IkDizGybVh8Qsq1Fpo3sP2IUx+kb/mP0gkcfJO95zlvN5Yp4gjR6daS52nVHvVh8HNT40cu2vgUbV8UTVT4mBVZceKG3tasGKxWJblWGlsLNWBkycn2OrWPEwRDLniLHF2B43cN3c8kem5LCbKF6aI3W1oEtOv8zeAqe8FeVkKsv0HqEtjqb0AAAA=[0m[Pipeline] End of Pipeline
+ERROR: .last-run.json file not found
+Finished: FAILURE
