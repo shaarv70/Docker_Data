@@ -4,11 +4,6 @@
   <id>admin</id>
   <fullName>admin</fullName>
   <properties>
-    <jenkins.security.ApiTokenProperty>
-      <tokenStore>
-        <tokenList/>
-      </tokenStore>
-    </jenkins.security.ApiTokenProperty>
     <jenkins.console.ConsoleUrlProviderUserProperty/>
     <hudson.model.MyViewsProperty>
       <views>
@@ -24,9 +19,6 @@
     <hudson.model.PaneStatusProperties>
       <collapsed/>
     </hudson.model.PaneStatusProperties>
-    <jenkins.security.seed.UserSeedProperty>
-      <seed>ddd2136944fe2ad1</seed>
-    </jenkins.security.seed.UserSeedProperty>
     <hudson.search.UserSearchProperty>
       <insensitiveSearch>true</insensitiveSearch>
     </hudson.search.UserSearchProperty>
@@ -34,9 +26,6 @@
     <jenkins.model.experimentalflags.UserExperimentalFlagsProperty>
       <flags/>
     </jenkins.model.experimentalflags.UserExperimentalFlagsProperty>
-    <hudson.security.HudsonPrivateSecurityRealm_-Details>
-      <passwordHash>#jbcrypt:$2a$10$caCpI8dFPVYEOBNYJPh7W.IJVL6vqAEbpMhamPOHfg/qfGJ7qcLS2</passwordHash>
-    </hudson.security.HudsonPrivateSecurityRealm_-Details>
     <jenkins.security.LastGrantedAuthoritiesProperty>
       <roles>
         <string>authenticated</string>
@@ -55,5 +44,16 @@
       <providerId>default</providerId>
     </org.jenkinsci.plugins.displayurlapi.user.PreferredProviderUserProperty>
     <io.jenkins.plugins.thememanager.ThemeUserProperty plugin="theme-manager@278.v2e3c063e42cc"/>
+    <jenkins.security.ApiTokenProperty>
+      <tokenStore>
+        <tokenList/>
+      </tokenStore>
+    </jenkins.security.ApiTokenProperty>
+    <hudson.security.HudsonPrivateSecurityRealm_-Details>
+      <passwordHash>#jbcrypt:$2a$10$dY1nxmdxKhVlAY4w.E6tuuBppCDiefF0OO5xPfoFDxNvidsRf2Bku</passwordHash>
+    </hudson.security.HudsonPrivateSecurityRealm_-Details>
+    <jenkins.security.seed.UserSeedProperty>
+      <seed>6bcf8e5f754d40a7</seed>
+    </jenkins.security.seed.UserSeedProperty>
   </properties>
 </user>

@@ -1,0 +1,19 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2025-04-01 18:58:03.750 UTC</timestamp>
+  <md5sum>8b74293c17afd41f0c8c26a92df971fa</md5sum>
+  <fileName>Credential id=Github-creds name=shaarv70/****** (My github Credentials)</fileName>
+  <usages>
+    <entry>
+      <string>PlaywrightBuilderAndRunner</string>
+      <ranges>11-17</ranges>
+    </entry>
+  </usages>
+  <facets>
+    <com.cloudbees.plugins.credentials.fingerprints.ItemCredentialsFingerprintFacet plugin="credentials@1413.va_51c53703df1">
+      <timestamp>1743539329335</timestamp>
+      <itemFullName>PlaywrightBuilderAndRunner</itemFullName>
+      <timestamp0>1743539146491</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.ItemCredentialsFingerprintFacet>
+  </facets>
+</fingerprint>
