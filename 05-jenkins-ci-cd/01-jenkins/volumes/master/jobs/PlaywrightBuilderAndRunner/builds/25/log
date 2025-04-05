@@ -1,0 +1,573 @@
+Started by user [8mha:////4DVpYekuN+7372GT/VJxtCLTYIBX6B/AxDQE8qxieRSXAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Obtained Jenkinsfile from git https://github.com/shaarv70/PlaywrightPracticeCode.git
+[8mha:////4EcdxupWSFaOpFU7Wz4jdNptsRXpPEnTSs+IeONOCssrAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4FLH39Ttnj+pglSqsGIaxsQEcfqe0y2PNakXtASzyGwJAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4EH478IPqFnXIKWsCtcFpoU5CYUXgv48cC6a8yJs+tvzAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgYB/eT83ILSktQifT+gOw31AXmd66/FAAAA[0mNode1 in C:\Users\arvin\IdeaProjects\Docker_Data\05-jenkins-ci-cd\01-jenkins\volumes\node\workspace\PlaywrightBuilderAndRunner
+[8mha:////4NTPgQ2lkMYU3Drc3/RHugkdPxbFNZrREIrI5uy6V4+1AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4LQ/C8bvJDaHYlqm+zfI6uIYEZ2uTHeMjz0Azt4YDRn8AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] stage
+[8mha:////4Is1gFDOC+HAqOCd95ByQM7IecE3KhKbo6BbNP9e94jtAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] { (Declarative: Checkout SCM)
+[8mha:////4GJII24LJDt1+RrDd5qkX+vwjBmHYehakql1RFMr6zfGAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaWGsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gfg7KmOvAAAAA==[0m[Pipeline] checkout
+Selected Git installation does not exist. Using Default
+The recommended git tool is: NONE
+using credential Github-creds
+Fetching changes from the remote Git repository
+ > git rev-parse --resolve-git-dir C:\Users\arvin\IdeaProjects\Docker_Data\05-jenkins-ci-cd\01-jenkins\volumes\node\workspace\PlaywrightBuilderAndRunner\.git # timeout=10
+ > git config remote.origin.url https://github.com/shaarv70/PlaywrightPracticeCode.git # timeout=10
+Cleaning workspace
+ > git rev-parse --verify HEAD # timeout=10
+Resetting working tree
+ > git reset --hard # timeout=10
+ > git clean -fdx # timeout=10
+Fetching upstream changes from https://github.com/shaarv70/PlaywrightPracticeCode.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.47.0.windows.2'
+using GIT_ASKPASS to set credentials My github Credentials
+ > git fetch --tags --force --progress -- https://github.com/shaarv70/PlaywrightPracticeCode.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+Checking out Revision ea7e455d610d29187dd389954226961a2bb50d53 (refs/remotes/origin/main)
+Commit message: "31 commit"
+ > git rev-parse "refs/remotes/origin/main^{commit}" # timeout=10
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f ea7e455d610d29187dd389954226961a2bb50d53 # timeout=10
+ > git rev-list --no-walk 3f7eab47f04196ecd269203184b87f442af0a603 # timeout=10
+[8mha:////4BpuIYXfqWL6WByR1ecZHjVsAPkf6QkKrZj56UIRv165AAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbGRNjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9Dg2gqvAAAAA==[0m[Pipeline] }
+[8mha:////4M8Qv/rcxb07sH8dJzGP/pp7kYy2B6WMlk/C0NA8cQY2AAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQRbWRhjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9J+wGOvAAAAA==[0m[Pipeline] // stage
+[8mha:////4DqDyAxctDQ80/VXhE8Aq3nXnJHxHlKEU2m78cmahwEsAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQDEh2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2G4+x/INtuQqUcEAAAA=[0m[Pipeline] withEnv
+[8mha:////4EFDeSXR1p5qLcLO0BzGYVwTaVvPn4bJz9Rmk6ebeMVWAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycoiUzoiJNerCCUITQtLo/zZJSSdOxNW4Ay2VmPBg2Zas93pDGQOcKBjuNHYWY2t570czJ54pdDdPmTu68pYwkte80bkhpc9rbShpWFUw2AjYamw9RYsmwU44+ZCVl2iqSwrzdhTArBrgCYWYyUmG9C1TgP19VJHwx/kLgKlPwOrDYvXyLD8BobDcwgAAAA==[0m[Pipeline] {
+[8mha:////4Iy9062WSzcoRyV8IK6JE8tQ06vXaCwQ8Iht8sZCKA1lAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUZUVMrFEWThCaEJJG/7dJSjpxIq7GHWipxIQHy7ZkvdcbqhjgRMEwp7GzGFvLej+aObFMobt5yszRlbWEkbxmQmdBSp/XKihpWFWUsOGw1dh6ihZNgh138iFrL9HUlxTm7cihtGqAJxR8JicZ0rdMAfb3UUXCH+cvAKY+Qdk0ix2WZ/UBbwyqm8IAAAA=[0m[Pipeline] withEnv
+[8mha:////4FPhZtvGSRBo/biKopiCWocNa+P2jt5Oozuo3ekMxLU+AAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUwIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfLdfrbD/Cw+y7kUycIAAAA=[0m[Pipeline] {
+[8mha:////4CXCZ2pTX7GDFk4QKa4H5BTL6r8ilTecCZb9LJtwkUL6AAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUCDbE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dv9rMd5mfxAbNWnxXCAAAA[0m[Pipeline] stage
+[8mha:////4D4xg8GCjNQAUNADREgV0NnvlBW/cMgCEMOGiHcvxmtLAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUSDAhpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD5WQ+PfCAAAA[0m[Pipeline] { (Build Image)
+[8mha:////4N2J0flSWPAqcCmNruCiG75nDLgECDRPazxAc0E1rK2oAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiCmgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHN7LjSKW+AAAA[0m[Pipeline] bat
+
+C:\Users\arvin\IdeaProjects\Docker_Data\05-jenkins-ci-cd\01-jenkins\volumes\node\workspace\PlaywrightBuilderAndRunner>docker build -t=shaarv70/playwright:latest . 
+#0 building with "desktop-linux" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 519B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for mcr.microsoft.com/playwright:v1.50.1
+#2 DONE 0.6s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 52B done
+#3 DONE 0.0s
+
+#4 [1/9] FROM mcr.microsoft.com/playwright:v1.50.1@sha256:ac7053180325ef75d31774c458d0bb9b55ac153ae1be3d104b80c6c1bb6a067c
+#4 resolve mcr.microsoft.com/playwright:v1.50.1@sha256:ac7053180325ef75d31774c458d0bb9b55ac153ae1be3d104b80c6c1bb6a067c 0.0s done
+#4 DONE 0.0s
+
+#5 [internal] load build context
+#5 transferring context: 1.01MB 0.1s done
+#5 DONE 0.1s
+
+#6 [2/9] WORKDIR /app
+#6 CACHED
+
+#7 [3/9] COPY package.json package-lock.json ./
+#7 CACHED
+
+#8 [4/9] RUN npm install
+#8 CACHED
+
+#9 [5/9] RUN apt-get update && apt-get install -y dos2unix
+#9 CACHED
+
+#10 [6/9] ADD runner.sh runner.sh
+#10 CACHED
+
+#11 [7/9] COPY . .
+#11 DONE 0.1s
+
+#12 [8/9] RUN dos2unix runner.sh
+#12 0.343 dos2unix: converting file runner.sh to Unix format...
+#12 DONE 0.4s
+
+#13 [9/9] RUN chmod +x runner.sh
+#13 DONE 0.5s
+
+#14 exporting to image
+#14 exporting layers 0.1s done
+#14 exporting manifest sha256:0fa50b6d9017189bc11fff943860014669fd5d535c399d63ee885523fada6677 0.0s done
+#14 exporting config sha256:06aac9a83751a6e5c384d74cca3b6d1746f62bdbf6fb82e61c28e4bdb254574b 0.0s done
+#14 exporting attestation manifest sha256:b5d579d805983d31e3c8610261e84a6e97a5a028d61b353d0403cfa3b36cbc0b 0.0s done
+#14 exporting manifest list sha256:8a90f8774c82df44a3b3885299a76b9d4c76f2e67762ed151be31093b0071ed7 0.0s done
+#14 naming to docker.io/shaarv70/playwright:latest done
+#14 unpacking to docker.io/shaarv70/playwright:latest 0.1s done
+#14 DONE 0.4s
+
+View build details: docker-desktop://dashboard/build/desktop-linux/desktop-linux/i23lzwynrfhot4z4worz3gx3j
+[8mha:////4E+mDh6ly5lLvfU+iFOjq5IfsMvIQLKSATAythSxoX9vAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiCkSBqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQGOY4V7vgAAAA==[0m[Pipeline] }
+[8mha:////4NYxG0ilvV2DWzLGkGx1zGMKS8CECAoablai2IrfxVosAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiJAokRJXWcsMLTGyME+vO2A5JxYv4Gn8gEImKLVY728zzBcsU4cjRYmuoc5Qah8H3dlo4cOwungds+YwNU2JvUJpBsjb1jJKzgTlFCQsBK0ON5+TIZliLVt1V5RXZ6pTj9B0ElE7f4AGFmMxZxfyFMcLm2uvE9PP8FcAYQoZyu//U7g3N4dT9vgAAAA==[0m[Pipeline] // stage
+[8mha:////4P8Vax42pAnyFMUc1PMeL9cipMXO/nqgYOTSvngJA8QfAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUiAkhpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD21FAanCAAAA[0m[Pipeline] stage
+[8mha:////4DRKBvNlwbXmjDAptNWppmj4fpDx1XeJl4AgnWVKw+8nAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogU2BDqxBp14QShCSFp9H9JUtKJE3E17kCgEhMeLNuS9Z4vqIKHhrxmVmFvMHSGDW7UObFEvr84SszSmXWEgZxirUotSXWca0tRwayihAWHpcLOUTCoI6y4FXdRO4G6PkWftwOH0sgbPKDgmRyFj98yeVhfRxkIf5y/AJiGCOV2n223+TyrN7xWSV3CAAAA[0m[Pipeline] { (Push Image)
+[8mha:////4LaQc+LB2gAaMYtZgZZMXwe792y05M5SSZIDJkzaxXx4AAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogUWBFT1ygLJwhNCGmj/8tPSjtxIq7GHWipxIQHy7ZkvdcbishwInaisdh6jLUXXejdlMRA3F4DDaKhi6gJIwUrlB0UGVstVVGysCjLYSVhbbEOFD26BBvZ6Icug0ZXnhNP21FC7s0dnpDJiZw0p28ZGba33kTCH+cvAMYuQX7Yzbafn8UHbGnGmsIAAAA=[0m[Pipeline] withCredentials
+Masking supported pattern matches of %DOCKER_HUB% or %DOCKER_HUB_PSW%
+[8mha:////4Khfl4KnitzfBwAxBz8lPHhhHX+YfD7WU137yKxIdFAIAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycohUdEVMrFEXThCaEJJG/7dJSjpxIq7GHWipxIQHy7ZkvdcbyhjgRMFwp7GzGFvLez+aOfFMobt5ytzRlbeEkbzmjc4NKX1ea0NJw6qCwUbAVmPrKVo0CXbCyYesvERTXVKYt6MAZtUATyjETE4ypG+ZAuzvo4qEP85fAEx9AlYfFquXZ/kBAsTc3cIAAAA=[0m[Pipeline] {
+[8mha:////4IivSDPUspknS/mfFHg8B9Ib3JQDfJNzeAPETw8GTmIZAAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggyE0vHypah8QSYIEKY/wkQSeWJvJp3EM2MlVvs7NvmPV+wjgGOFDSzCgeDsTPMu0mXxTKF4eooM0sX1hFGcooJlQX16rSgoKRgSVXDisNGYecoGtQJttzKu2ycRN2cUyjfgUNt+hEeUPFiTjKkL8wBdrepj4Q/z18BzD5B3baf2vs3w5BRkb4AAAA=[0m[Pipeline] bat
+
+C:\Users\arvin\IdeaProjects\Docker_Data\05-jenkins-ci-cd\01-jenkins\volumes\node\workspace\PlaywrightBuilderAndRunner>docker login -u shaarv70 -p **** 
+WARNING! Using --password via the CLI is insecure. Use --password-stdin.
+Login Succeeded
+[8mha:////4Bz2M+eOQD2dhW/qa73c+yPwd2Ua/C/nTlRh5OFpRVk0AAAApB+LCAAAAAAAAP9tjbEOwiAURV9rHFwd/QiaNG7GyZWw+AXYIkLJexSodPKL/DX/QbSJk3e4uecu5/mCdQxwpKCZVTgYjJ1h3k26LJYpDFdHmVm6sI4wklNMqCyoV6cFBSUFS6oaVhw2CjtH0aBOsOVW3mXjJOrmnEL5Dhxq04/wgIoXc5IhfWEOsLtNfST8ef4KYPYJ6rb91N6/AQQGEN6+AAAA[0m[Pipeline] bat
+
+C:\Users\arvin\IdeaProjects\Docker_Data\05-jenkins-ci-cd\01-jenkins\volumes\node\workspace\PlaywrightBuilderAndRunner>docker tag shaarv70/playwright:latest shaarv70/playwright:25 
+[8mha:////4Ajce9GroWJhY14tKNuATCR4aPXWymGiLcJD5QUlARUAAAAApB+LCAAAAAAAAP9tjbEOwiAURV9rHFwd/QiaNHEyTq6ExS/AFhFK3qNApZNf5K/5D6JNnLzDzT13Oc8XrGOAIwXNrMLBYOwM827SZbFMYbg6yszShXWEkZxiQmVBvTotKCgpWFLVsOKwUdg5igZ1gi238i4bJ1E35xTKd+BQm36EB1S8mJMM6QtzgN1t6iPhz/NXALNPULftp/b+DUU3C8e+AAAA[0m[Pipeline] bat
+
+C:\Users\arvin\IdeaProjects\Docker_Data\05-jenkins-ci-cd\01-jenkins\volumes\node\workspace\PlaywrightBuilderAndRunner>docker push shaarv70/playwright:25 
+The push refers to repository [docker.io/shaarv70/playwright]
+dc0a6f459305: Waiting
+0a96bcc796be: Waiting
+b7033b30aa95: Waiting
+54609b48ebc1: Waiting
+abe45795356c: Waiting
+4f4fb700ef54: Waiting
+ecd31483f9fd: Waiting
+4db20b60f57e: Waiting
+d705f7a361da: Waiting
+ae2f3998d34a: Waiting
+27d33bbd1a12: Waiting
+db70b636acc3: Waiting
+9d710b0107e8: Waiting
+ae2f3998d34a: Waiting
+27d33bbd1a12: Waiting
+db70b636acc3: Waiting
+9d710b0107e8: Waiting
+ecd31483f9fd: Waiting
+4db20b60f57e: Waiting
+d705f7a361da: Waiting
+54609b48ebc1: Waiting
+abe45795356c: Waiting
+4f4fb700ef54: Waiting
+dc0a6f459305: Waiting
+0a96bcc796be: Waiting
+b7033b30aa95: Waiting
+b7033b30aa95: Waiting
+54609b48ebc1: Waiting
+abe45795356c: Waiting
+4f4fb700ef54: Waiting
+dc0a6f459305: Waiting
+0a96bcc796be: Waiting
+d705f7a361da: Waiting
+ae2f3998d34a: Waiting
+27d33bbd1a12: Waiting
+db70b636acc3: Waiting
+9d710b0107e8: Waiting
+ecd31483f9fd: Waiting
+4db20b60f57e: Waiting
+d705f7a361da: Waiting
+ae2f3998d34a: Waiting
+27d33bbd1a12: Waiting
+db70b636acc3: Waiting
+9d710b0107e8: Waiting
+ecd31483f9fd: Waiting
+4db20b60f57e: Waiting
+b7033b30aa95: Waiting
+54609b48ebc1: Waiting
+abe45795356c: Waiting
+4f4fb700ef54: Waiting
+dc0a6f459305: Waiting
+0a96bcc796be: Waiting
+4f4fb700ef54: Waiting
+dc0a6f459305: Waiting
+0a96bcc796be: Waiting
+b7033b30aa95: Waiting
+54609b48ebc1: Waiting
+abe45795356c: Waiting
+db70b636acc3: Waiting
+9d710b0107e8: Waiting
+ecd31483f9fd: Waiting
+4db20b60f57e: Waiting
+d705f7a361da: Waiting
+ae2f3998d34a: Waiting
+27d33bbd1a12: Waiting
+54609b48ebc1: Waiting
+abe45795356c: Waiting
+4f4fb700ef54: Waiting
+dc0a6f459305: Waiting
+0a96bcc796be: Waiting
+b7033b30aa95: Waiting
+ae2f3998d34a: Waiting
+27d33bbd1a12: Waiting
+db70b636acc3: Waiting
+9d710b0107e8: Waiting
+ecd31483f9fd: Waiting
+4db20b60f57e: Waiting
+d705f7a361da: Waiting
+0a96bcc796be: Waiting
+b7033b30aa95: Waiting
+54609b48ebc1: Waiting
+abe45795356c: Waiting
+4f4fb700ef54: Waiting
+dc0a6f459305: Waiting
+4db20b60f57e: Waiting
+d705f7a361da: Waiting
+ae2f3998d34a: Waiting
+27d33bbd1a12: Waiting
+db70b636acc3: Waiting
+9d710b0107e8: Waiting
+ecd31483f9fd: Waiting
+ecd31483f9fd: Waiting
+4db20b60f57e: Waiting
+d705f7a361da: Waiting
+ae2f3998d34a: Waiting
+27d33bbd1a12: Waiting
+db70b636acc3: Waiting
+9d710b0107e8: Waiting
+dc0a6f459305: Waiting
+0a96bcc796be: Waiting
+b7033b30aa95: Waiting
+54609b48ebc1: Waiting
+abe45795356c: Waiting
+4f4fb700ef54: Waiting
+9d710b0107e8: Waiting
+ecd31483f9fd: Waiting
+4db20b60f57e: Waiting
+d705f7a361da: Waiting
+ae2f3998d34a: Waiting
+27d33bbd1a12: Waiting
+db70b636acc3: Waiting
+4f4fb700ef54: Waiting
+dc0a6f459305: Waiting
+0a96bcc796be: Waiting
+b7033b30aa95: Waiting
+54609b48ebc1: Waiting
+abe45795356c: Waiting
+54609b48ebc1: Waiting
+abe45795356c: Waiting
+4f4fb700ef54: Waiting
+dc0a6f459305: Waiting
+0a96bcc796be: Waiting
+b7033b30aa95: Waiting
+ae2f3998d34a: Waiting
+27d33bbd1a12: Waiting
+db70b636acc3: Waiting
+9d710b0107e8: Waiting
+ecd31483f9fd: Waiting
+4db20b60f57e: Waiting
+d705f7a361da: Waiting
+27d33bbd1a12: Waiting
+db70b636acc3: Waiting
+9d710b0107e8: Waiting
+ecd31483f9fd: Waiting
+4db20b60f57e: Waiting
+d705f7a361da: Waiting
+ae2f3998d34a: Waiting
+abe45795356c: Waiting
+4f4fb700ef54: Waiting
+dc0a6f459305: Waiting
+0a96bcc796be: Waiting
+b7033b30aa95: Waiting
+54609b48ebc1: Waiting
+dc0a6f459305: Waiting
+0a96bcc796be: Waiting
+b7033b30aa95: Waiting
+54609b48ebc1: Waiting
+abe45795356c: Waiting
+4f4fb700ef54: Waiting
+ecd31483f9fd: Waiting
+4db20b60f57e: Waiting
+d705f7a361da: Waiting
+ae2f3998d34a: Waiting
+27d33bbd1a12: Waiting
+db70b636acc3: Waiting
+9d710b0107e8: Waiting
+ecd31483f9fd: Waiting
+4db20b60f57e: Waiting
+d705f7a361da: Waiting
+ae2f3998d34a: Waiting
+27d33bbd1a12: Waiting
+db70b636acc3: Waiting
+9d710b0107e8: Waiting
+dc0a6f459305: Waiting
+0a96bcc796be: Waiting
+b7033b30aa95: Waiting
+54609b48ebc1: Waiting
+abe45795356c: Waiting
+4f4fb700ef54: Waiting
+0a96bcc796be: Waiting
+b7033b30aa95: Waiting
+54609b48ebc1: Waiting
+abe45795356c: Waiting
+4f4fb700ef54: Waiting
+dc0a6f459305: Waiting
+4db20b60f57e: Waiting
+d705f7a361da: Waiting
+ae2f3998d34a: Waiting
+27d33bbd1a12: Waiting
+db70b636acc3: Waiting
+9d710b0107e8: Waiting
+ecd31483f9fd: Waiting
+ecd31483f9fd: Waiting
+4db20b60f57e: Waiting
+d705f7a361da: Waiting
+ae2f3998d34a: Waiting
+27d33bbd1a12: Waiting
+db70b636acc3: Waiting
+9d710b0107e8: Waiting
+dc0a6f459305: Waiting
+0a96bcc796be: Waiting
+b7033b30aa95: Waiting
+54609b48ebc1: Waiting
+abe45795356c: Waiting
+4f4fb700ef54: Waiting
+54609b48ebc1: Waiting
+abe45795356c: Waiting
+4f4fb700ef54: Waiting
+dc0a6f459305: Waiting
+0a96bcc796be: Waiting
+b7033b30aa95: Waiting
+ae2f3998d34a: Waiting
+27d33bbd1a12: Waiting
+db70b636acc3: Waiting
+9d710b0107e8: Waiting
+ecd31483f9fd: Waiting
+4db20b60f57e: Waiting
+d705f7a361da: Waiting
+4f4fb700ef54: Waiting
+dc0a6f459305: Waiting
+0a96bcc796be: Waiting
+b7033b30aa95: Waiting
+54609b48ebc1: Waiting
+abe45795356c: Waiting
+9d710b0107e8: Waiting
+ecd31483f9fd: Waiting
+4db20b60f57e: Waiting
+d705f7a361da: Waiting
+ae2f3998d34a: Waiting
+27d33bbd1a12: Waiting
+db70b636acc3: Waiting
+ecd31483f9fd: Waiting
+4db20b60f57e: Waiting
+d705f7a361da: Waiting
+ae2f3998d34a: Waiting
+27d33bbd1a12: Waiting
+db70b636acc3: Waiting
+9d710b0107e8: Waiting
+dc0a6f459305: Waiting
+0a96bcc796be: Waiting
+b7033b30aa95: Waiting
+54609b48ebc1: Waiting
+abe45795356c: Waiting
+4f4fb700ef54: Waiting
+9d710b0107e8: Waiting
+ecd31483f9fd: Waiting
+4db20b60f57e: Waiting
+d705f7a361da: Waiting
+ae2f3998d34a: Waiting
+27d33bbd1a12: Waiting
+db70b636acc3: Waiting
+4f4fb700ef54: Waiting
+dc0a6f459305: Waiting
+0a96bcc796be: Waiting
+b7033b30aa95: Waiting
+54609b48ebc1: Waiting
+abe45795356c: Waiting
+54609b48ebc1: Waiting
+abe45795356c: Waiting
+4f4fb700ef54: Waiting
+dc0a6f459305: Waiting
+0a96bcc796be: Waiting
+b7033b30aa95: Waiting
+ae2f3998d34a: Waiting
+27d33bbd1a12: Waiting
+db70b636acc3: Waiting
+9d710b0107e8: Waiting
+ecd31483f9fd: Waiting
+4db20b60f57e: Waiting
+d705f7a361da: Waiting
+54609b48ebc1: Waiting
+abe45795356c: Waiting
+4f4fb700ef54: Waiting
+dc0a6f459305: Waiting
+0a96bcc796be: Waiting
+b7033b30aa95: Waiting
+ae2f3998d34a: Waiting
+27d33bbd1a12: Waiting
+db70b636acc3: Layer already exists
+9d710b0107e8: Waiting
+ecd31483f9fd: Waiting
+4db20b60f57e: Waiting
+d705f7a361da: Waiting
+d705f7a361da: Waiting
+ae2f3998d34a: Waiting
+27d33bbd1a12: Waiting
+9d710b0107e8: Waiting
+ecd31483f9fd: Waiting
+4db20b60f57e: Waiting
+b7033b30aa95: Waiting
+54609b48ebc1: Waiting
+abe45795356c: Waiting
+4f4fb700ef54: Waiting
+dc0a6f459305: Waiting
+0a96bcc796be: Waiting
+4f4fb700ef54: Waiting
+dc0a6f459305: Waiting
+0a96bcc796be: Waiting
+b7033b30aa95: Waiting
+54609b48ebc1: Waiting
+abe45795356c: Waiting
+9d710b0107e8: Waiting
+ecd31483f9fd: Waiting
+4db20b60f57e: Waiting
+d705f7a361da: Waiting
+ae2f3998d34a: Waiting
+27d33bbd1a12: Waiting
+b7033b30aa95: Waiting
+54609b48ebc1: Waiting
+abe45795356c: Waiting
+4f4fb700ef54: Waiting
+dc0a6f459305: Waiting
+0a96bcc796be: Waiting
+d705f7a361da: Waiting
+ae2f3998d34a: Waiting
+27d33bbd1a12: Layer already exists
+9d710b0107e8: Waiting
+ecd31483f9fd: Layer already exists
+4db20b60f57e: Layer already exists
+d705f7a361da: Waiting
+ae2f3998d34a: Waiting
+9d710b0107e8: Waiting
+b7033b30aa95: Waiting
+54609b48ebc1: Waiting
+abe45795356c: Waiting
+4f4fb700ef54: Waiting
+dc0a6f459305: Waiting
+0a96bcc796be: Waiting
+4f4fb700ef54: Waiting
+dc0a6f459305: Layer already exists
+0a96bcc796be: Waiting
+b7033b30aa95: Waiting
+54609b48ebc1: Waiting
+abe45795356c: Waiting
+9d710b0107e8: Waiting
+d705f7a361da: Waiting
+ae2f3998d34a: Layer already exists
+b7033b30aa95: Layer already exists
+54609b48ebc1: Layer already exists
+abe45795356c: Waiting
+4f4fb700ef54: Layer already exists
+d705f7a361da: Layer already exists
+abe45795356c: Pushed
+9d710b0107e8: Pushed
+0a96bcc796be: Pushed
+25: digest: sha256:8a90f8774c82df44a3b3885299a76b9d4c76f2e67762ed151be31093b0071ed7 size: 856
+[8mha:////4KcLDeMb5ucH2WickzhoHyAAi8jKTxHi1NEQyLWrGTaFAAAApB+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggyk8LGsbJlaDwBJogQ5n8CRFJ5Iq/mHUQzY+UWO/u2ec8XrGOAIwXNrMLBYOwM827SZbFMYbg6yszShXWEkZxiQmVBvTotKCgpWFLVsOKwUdg5igZ1gi238i4bJ1E35xTKd+BQm36EB1S8mJMM6QtzgN1t6iPhz/NXALP3Cep2/6n2DdZseDS+AAAA[0m[Pipeline] }
+[8mha:////4HLCIDufZU+51cOeLcllS9UzQX2nHFBfxmFYrsuRebWkAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiaCgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrd/lPbN8nuLWa+AAAA[0m[Pipeline] // withCredentials
+[8mha:////4HNCBtfHGYS9aXyKvG18ar6DHM1fwyMqMtXdSDDUd2GjAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCqJAQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrd/lPbN4psfOC+AAAA[0m[Pipeline] }
+[8mha:////4Ji493A/AMjYdsKZrwg5BRs4FYHUno/Eye7xLDlUt4qYAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIi6CJEldZKwwtMbIwT687YDknFi/gaf8AiEhVbrHa2mdcb1jHAiYPBXtNgKXYWvRtNXjhxGK6OJ+z5gh1TZKex1VPLSjcLtpw0LClKWAnYaOocR0smwVb08iErJ8lU5xTydxRQWnWHJxQim5MM6QtzgN1tVJHp5/krgNn7BOWhzrWvP0hU0Xm+AAAA[0m[Pipeline] // stage
+[8mha:////4PnVTiiFS9vY4+1YuX0dKpYfOFwZb049f4/ltmZA44RuAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogU1BExdY2ycIKQhJA2+r8kKe3EibgadyBQiQkPlm3Jes8XVDHAkYJlncHeYVSODX60ObGJQn/xNLGOzkwRRvKGCTMJ0qZdqqBkYFFRworD2qDyFB3aBBveybusvURbn1LI24FD6fQNHlDwTE4ypG+ZA2yvo46EP85fAMxDgnLfZGt2n2f1BowFkRnCAAAA[0m[Pipeline] stage
+[8mha:////4Na382HVTJNVJ+OAHvi1RX2LnPbQOUzL9ba4AWnmRErMAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogUxIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfLDbrb9/Cw+ty4Up8IAAAA=[0m[Pipeline] { (Pre-pull Docker Image)
+[8mha:////4AZDQZbJfxHSjFNG2oiqdhE06Rla1kyzWtC6aaQvUt2vAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIioERUaS03vMDExjix7oztkFS8iK/xBwKRqNhitbPNPF+wTBGOHC22hjpHqXEYfG+nhQPH7uJ5wJbP2DAl9galGSRrU88oORuYU5SwELAy1HhOjmyGtWjVXVVeka1OOU7fQUDp9A0eUIjJnFXMXxgjbK69Tkw/z18BjCFDud9+ahfettHKdL4AAAA=[0m[Pipeline] bat
+
+C:\Users\arvin\IdeaProjects\Docker_Data\05-jenkins-ci-cd\01-jenkins\volumes\node\workspace\PlaywrightBuilderAndRunner>docker pull shaarv70/playwright:25 
+25: Pulling from shaarv70/playwright
+Digest: sha256:8a90f8774c82df44a3b3885299a76b9d4c76f2e67762ed151be31093b0071ed7
+Status: Image is up to date for shaarv70/playwright:25
+docker.io/shaarv70/playwright:25
+[8mha:////4FZQ3Hd2hXbU3S4J178M0+bjviXn4nDLovymD0bmWItPAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIilBJR0VppeIFJjLFj3Tm2g1PxIr7GHwhEomKL1c4283zBOgY4ctBoFfWGYmvQu1HPCzOH/uo4o+ULtkyRncJG5YY7dVqw4aRgSVHCSsBGUes4GtIJtsLKu6ycJF2dU5i/g4DSdAM8oBCzOcmQvjAF2N3GLjL9PH8FMHmfoKzrT+3fKpbQQr4AAAA=[0m[Pipeline] }
+[8mha:////4NKycwRE21DiBnVK0OG0ajaLTClXxkuLVxwae468HAZ9AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCBB2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7nbf2r7BgSW0ii+AAAA[0m[Pipeline] // stage
+[8mha:////4DIFiwCngjvklLnPj+N/7Is62hj1JCSqgINVj9g2d3sgAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUqGJCTF2jLJwgJCGkjf4vSUo7cSKuxh0IVGLCg2Vbst7zBVUMcKRgWWewdxiVY4MfbU5sotBfPE2sozNThJG8YcJMgrRplyooGVhUlLDisDaoPEWHNsGGd/Iuay/R1qcU8nbgUDp9gwcUPJOTDOlb5gDb66gj4Y/zFwDzkKDcNdma/edZvQE/lFxJwgAAAA==[0m[Pipeline] stage
+[8mha:////4Lk7wXe62U0l9HV6BRfbStB+dFGJ3/qzl/bwhmp+gYTTAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0QLAgpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD02yRsvCAAAA[0m[Pipeline] { (Run Tests)
+[8mha:////4D00wiPCjDtBRqh1x39cIZzY6AwOiiVgKn8KB1XQ9xI0AAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0QIIBMXWNsnCC0ISQNvq//KS0EyfiatyBlkpMeLBsS9Z7vaGIDCdiJxqLrcdYe9GF3k1JDMTtNdAgGrqImjBSsELZQZGx1VIVJQuLshxWEtYW60DRo0uwkY1+6DJodOU58bQdJeTe3OEJmZzISXP6lpFhe+tNJPxx/gJg7BLku/1sh/lZfADpB/iZwgAAAA==[0m[Pipeline] script
+[8mha:////4M06Z51HnnVad4KqyfKpeET2vJxDPvCYfA+ApMsRJD08AAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0YAAJMXWNsnCC0ISQNvq//KS0EyfiatyBlkpMeLBsS9Z7vaGIDCdiJxqLrcdYe9GF3k1JDMTtNdAgGrqImjBSsELZQZGx1VIVJQuLshxWEtYW60DRo0uwkY1+6DJodOU58bQdJeTe3OEJmZzISXP6lpFhe+tNJPxx/gJg7BLku/1sh/lZfAD8aiCpwgAAAA==[0m[Pipeline] {
+[8mha:////4D2qNDxXa8yAwGG/0qAwYYBGiHHGSEISBEHDCTcKMWB2AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJS0IAQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHN65NpgK+AAAA[0m[Pipeline] bat
+
+C:\Users\arvin\IdeaProjects\Docker_Data\05-jenkins-ci-cd\01-jenkins\volumes\node\workspace\PlaywrightBuilderAndRunner>docker-compose up --scale SmokeChrome=1 
+ Network playwrightbuilderandrunner_default  Creating
+ Network playwrightbuilderandrunner_default  Created
+ Container playwrightbuilderandrunner-SmokeChrome-1  Creating
+ Container playwrightbuilderandrunner-SmokeChrome-1  Created
+Attaching to SmokeChrome-1
+SmokeChrome-1  | Running Playwright tests using npm script: test:SmokeChrome
+SmokeChrome-1  | 
+SmokeChrome-1  | > playwright@1.0.0 test:SmokeChrome
+SmokeChrome-1  | > cross-env SECRET_KEY='shaarv70' npx playwright test EncryptionDecryption.spec.ts --grep=@Smoke --project=chromium
+SmokeChrome-1  | 
+SmokeChrome-1  | 
+SmokeChrome-1  | Running 1 test using 1 worker
+SmokeChrome-1  | 
+SmokeChrome-1  | [1A[2K[1/1] [chromium] â€º tests/Day-15/EncryptionDecryption.spec.ts:40:1 â€º Second way @Smoke
+SmokeChrome-1  | [1A[2K  1) [chromium] â€º tests/Day-15/EncryptionDecryption.spec.ts:40:1 â€º Second way @Smoke â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+SmokeChrome-1  | 
+SmokeChrome-1  |     Error: browserType.launch: Chromium distribution 'chrome' is not found at /opt/google/chrome/chrome
+SmokeChrome-1  |     Run "npx playwright install chrome"
+SmokeChrome-1  | 
+SmokeChrome-1  |     attachment #1: trace (application/zip) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+SmokeChrome-1  |     test-results/Day-15-EncryptionDecryption-Second-way-chromium/trace.zip
+SmokeChrome-1  |     Usage:
+SmokeChrome-1  | 
+SmokeChrome-1  |         npx playwright show-trace test-results/Day-15-EncryptionDecryption-Second-way-chromium/trace.zip
+SmokeChrome-1  | 
+SmokeChrome-1  |     â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+SmokeChrome-1  | 
+SmokeChrome-1  | 
+SmokeChrome-1  | [1A[2K  1 failed
+SmokeChrome-1  |     [chromium] â€º tests/Day-15/EncryptionDecryption.spec.ts:40:1 â€º Second way @Smoke â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+SmokeChrome-1  | 
+SmokeChrome-1  | To open last HTML report run:
+SmokeChrome-1  | 
+SmokeChrome-1  |   npx playwright show-report
+SmokeChrome-1  | 
+SmokeChrome-1  | Ortoni HTML report generated at /app/playwright-report/report.html
+[KSmokeChrome-1 exited with code 0
+[8mha:////4CMdzbYu5pf2ui3p2sIVbkSwVb16OTSUWhzDOJGDdqoxAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCBAUSSkVrueEFJjHGiXUXbAen4kV8jT9gEYmKLVY728zrDcvgoWZvsNPUWwqNxcGNJi9M7Pur44QdX7BhCuw0Sp0kt/o0o+SoYU5RwkLASlPjOFgyEdaiUw9VOUWmOkefv6OA0rZ3eEIhsjkqH78wedjcxjYw/Tx/BTANQ4Ryv821O3wArmI/eL4AAAA=[0m[Pipeline] }
+[8mha:////4KuhaNhXakUC1SkJnuZuYLiUIzfhSvbeYnlHPZn0ydSJAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiBBIFSkVrueEFJjHGiXUXbAen4kV8jT9gEYmKLVY728zrDcvgoWZvsNPUWwqNxcGNJi9M7Pur44QdX7BhCuw0Sp0kt/o0o+SoYU5RwkLASlPjOFgyEdaiUw9VOUWmOkefv6OA0rZ3eEIhsjkqH78wedjcxjYw/Tx/BTANQ4Ryv821O3wAmqzcI74AAAA=[0m[Pipeline] // script
+[8mha:////4POeXg7P67ed7kscCHpU4mEFGP8QrbhlHpTg+5K2Z68iAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUAsSCOrFGXThBaEJIGv1fkpR04kRcjTsQqMSEB8u2ZL3nC6rgoSGvmVXYGwydYYMbdU4ske8vjhKzdGYdYSCnWKtSS1Id59pSVDCrKGHBYamwcxQM6ggrbsVd1E6grk/R5+3AoTTyBg8oeCZH4eO3TB7W11EGwh/nLwCmIUK53WfbbT7P6g3UqJIMwgAAAA==[0m[Pipeline] script
+[8mha:////4Dk3m+Ub8gtT+YsHfFUIcR21X0P6L+cDXXdlzqQx0XaYAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUAjbE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5AfdrPt52fxAXzhjwPCAAAA[0m[Pipeline] {
+[8mha:////4Pxj5cIA3zsxI+13XTOGTIA9krtdGU53snxsQG9T3v9sAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSkA5R0VppeIFJjLFj3Tm2g1PxIr7GHwhEomKL1c4283zBOgY4ctBoFfWGYmvQu1HPCzOH/uo4o+ULtkyRncJG5YY7dVqw4aRgSVHCSsBGUes4GtIJtsLKu6ycJF2dU5i/g4DSdAM8oBCzOcmQvjAF2N3GLjL9PH8FMPkEZb3/VO3fhXiFur4AAAA=[0m[Pipeline] fileExists
+[8mha:////4NxLcO0rAubTb/2Sgm0jZtOQnUjaiA+ua+5M9X+sXen1AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSABWiSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwZyt32U/vwBsRJnqO+AAAA[0m[Pipeline] readJSON
+[8mha:////4EpKzTRanPUpM1D/TseU/DhQZz+/HJ6uT9T6CRP0hAEBAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSgGgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUO62n9qHNwcas4i+AAAA[0m[Pipeline] error
+[8mha:////4NVO/ceSzYOyX2l1RXHDrvrB/0yeSsMS9Zw9Leq2fl4pAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSgESBqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFDu9p/avgFZHam9vgAAAA==[0m[Pipeline] }
+[8mha:////4KrXgrdgGIyjiUPMZRjcdJtVtkK5xZ29oB95BweccjlOAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiIQokRJXWcsMLTGyME+vO2A5JxYv4Gn8gEImKLVY728zzBcsU4cjRYmuoc5Qah8H3dlo4cOwungds+YwNU2JvUJpBsjb1jJKzgTlFCQsBK0ON5+TIZliLVt1V5RXZ6pTj9B0ElE7f4AGFmMxZxfyFMcLm2uvE9PP8FcAYQoZyt//U9g0an/g7vgAAAA==[0m[Pipeline] // script
+[8mha:////4NyMz3Lzn1aJ+JpeSpJjnPcBiYYLbY65viw0Y0FDoTHGAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSgJAQSkVrueEFJjHGiXUXbAen4kV8jT9gEYmKLVY728zrDcvgoWZvsNPUWwqNxcGNJi9M7Pur44QdX7BhCuw0Sp0kt/o0o+SoYU5RwkLASlPjOFgyEdaiUw9VOUWmOkefv6OA0rZ3eEIhsjkqH78wedjcxjYw/Tx/BTANQ4Ryd8i13X8AYR6IuL4AAAA=[0m[Pipeline] }
+[8mha:////4Fx4OBObPLdWwXRk17XPnNYI6mTZQ4Gl9eneBoPRlYUNAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKChFIhqrRWGl5gYmOcWHfGdkgqXsTX+AMWkajYYrWzzbzesI4BThwM9poGS7Gz6N1o8sKJw3B1PGHPF+yYIjuNrZ5aVrpZsOWkYUlRwkrARlPnOFoyCbailw9ZOUmmOqeQv6OA0qo7PKEQ2ZxkSF+YA+xuo4pMP89fAczeJyjrfa5D/QGnFfmgvgAAAA==[0m[Pipeline] // stage
+[8mha:////4DC0r92qeFS1K440yieKzWe7hf4JMYSQjj4nwLGjC47VAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUFWJCTF2jLpwgNCEkjf4vSUo6cSKuxh0IVGLCg2Vbst7zBVXwcCSvmVU4GAy9YaObdE4skR8ujhKzdGY9YSCnWKdSR1K1S+0oKlhUlLDisFbYOwoGdYQNt+IuaidQ16fo83bgUBp5gwcUPJOj8PFbZg/b6yQD4Y/zFwDzGKFsdtn2zedZvQET4x2xwgAAAA==[0m[Pipeline] stage
+[8mha:////4G8pt6jLFcMcIWf0jLC0E1OJj/0+rIbZ2G/EMP0GYzj6AAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUIDEhpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYL8sJttPz+LDwMT42zCAAAA[0m[Pipeline] { (Declarative: Post Actions)
+[8mha:////4Cr2TsGOcXcnSK8svhLiXgnxCTjwOFlNKMQkxGeBD6wBAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIigagQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUO63n9qFN1+P256+AAAA[0m[Pipeline] archiveArtifacts
+Archiving artifacts
+[8mha:////4BE7CT+RszJuPAfWyQqUsIDQilac+nkMmxbWTwFBIlmpAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiIagQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUO63n9qFN5gZmtG+AAAA[0m[Pipeline] bat
+
+C:\Users\arvin\IdeaProjects\Docker_Data\05-jenkins-ci-cd\01-jenkins\volumes\node\workspace\PlaywrightBuilderAndRunner>docker-compose down --rmi all --volumes --remove-orphans 
+ Container playwrightbuilderandrunner-SmokeChrome-1  Stopping
+ Container playwrightbuilderandrunner-SmokeChrome-1  Stopped
+ Container playwrightbuilderandrunner-SmokeChrome-1  Removing
+ Container playwrightbuilderandrunner-SmokeChrome-1  Removed
+ Image shaarv70/playwright:latest  Removing
+ Network playwrightbuilderandrunner_default  Removing
+ Image shaarv70/playwright:latest  Removed
+ Network playwrightbuilderandrunner_default  Removed
+[8mha:////4HAp/j6gFP/ZP95KVthSFe5tK7OR/u3m5WpO/inKThB6AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiIaVCVLRWGl5gEmPsWHeO7eBUvIiv8QcCkajYYrWzzTxfsI4Bjhw0WkW9odga9G7U88LMob86zmj5gi1TZKewUbnhTp0WbDgpWFKUsBKwUdQ6joZ0gq2w8i4rJ0lX5xTm7yCgNN0ADyjEbE4ypC9MAXa3sYtMP89fAUw+QVnvP1X7N9kogci+AAAA[0m[Pipeline] bat
+
+C:\Users\arvin\IdeaProjects\Docker_Data\05-jenkins-ci-cd\01-jenkins\volumes\node\workspace\PlaywrightBuilderAndRunner>docker system prune -f 
+Deleted build cache objects:
+p107hprbhm90m5oq3tz357d1d
+ph5zh29xx4g83doo0c8ra0agw
+ogegtyj3yhcutu181hxdx6v0c
+yn1ofhhv5iktltcfyvt68nk0w
+rgfne2a5o1ohn1gexgmrasuyt
+lfdxkh3ky03zwl4h14uhdv840
+
+Total reclaimed space: 4.196MB
+[8mha:////4L4Qxu9Paj8XB5Y2q4YHsjgRUsY33vp9Lzez2CPqPAe3AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiIUGDqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDhnK3/dQ+vAEae6zjvgAAAA==[0m[Pipeline] bat
+
+C:\Users\arvin\IdeaProjects\Docker_Data\05-jenkins-ci-cd\01-jenkins\volumes\node\workspace\PlaywrightBuilderAndRunner>docker image rm shaarv70/playwright:25 
+Untagged: shaarv70/playwright:25
+Deleted: sha256:8a90f8774c82df44a3b3885299a76b9d4c76f2e67762ed151be31093b0071ed7
+[8mha:////4I03beYafxi/vAoIDXjXY6M+ixVPktAaz8tXZgDBcz4IAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiISEKRJXWcsMLTGyME+vO2A5JxYv4Gn8gEImKLVY728zzBcsU4cjRYmuoc5Qah8H3dlo4cOwungds+YwNU2JvUJpBsjb1jJKzgTlFCQsBK0ON5+TIZliLVt1V5RXZ6pTj9B0ElE7f4AGFmMxZxfyFMcLm2uvE9PP8FcAYMpS77af24Q1bSrf6vgAAAA==[0m[Pipeline] bat
+
+C:\Users\arvin\IdeaProjects\Docker_Data\05-jenkins-ci-cd\01-jenkins\volumes\node\workspace\PlaywrightBuilderAndRunner>docker logout 
+Removing login credentials for https://index.docker.io/v1/
+[8mha:////4PCDvyNIFtsCQG3je1dgdObSEn/B8bhWS4eAteBeSGDVAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiISEhIaq0lhteYGJjnFh3xnZIKl7E1/gDgUhUbLHa2WaeL1imCEeOFltDnaPUOAy+t9PCgWN38Txgy2dsmBJ7g9IMkrWpZ5ScDcwpSlgIWBlqPCdHNsNatOquKq/IVqccp+8goHT6Bg8oxGTOKuYvjBE2114npp/nrwDGkKHcbT+1D2+UVi99vgAAAA==[0m[Pipeline] emailext
+Sending email to: arvindsharma50480@gmail.com
+[8mha:////4FrA2x0toU3Mh9SdiTGMTaRhKS1F/6cUn5q4oDap9BANAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiIVEgRJXWcsMLTGyME+vO2A5JxYv4Gn8gEImKLVY728zzBcsU4cjRYmuoc5Qah8H3dlo4cOwungds+YwNU2JvUJpBsjb1jJKzgTlFCQsBK0ON5+TIZliLVt1V5RXZ6pTj9B0ElE7f4AGFmMxZxfyFMcLm2uvE9PP8FcAYQoZyt//U9g1KdshPvgAAAA==[0m[Pipeline] }
+[8mha:////4OGxTPdlILD3P5rBgd0r9B6k04dFYaUilBaLPgr1C43KAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICBTQoFa3lhheYxBgn1l2wHZyKF/E1/oBFJCq2WO1sM683LIOHmr3BTlNvKTQWBzeavDCx76+OE3Z8wYYpsNModZLc6tOMkqOGOUUJCwErTY3jYMlEWItOPVTlFJnqHH3+jgJK297hCYXI5qh8/MLkYXMb28D08/wVwDQMEcrDNtd+9wGlbCbAvgAAAA==[0m[Pipeline] // stage
+[8mha:////4FHykX0UX5qjVAwzrMwsDcr4/rOKeLLaQ1YywdoYll/0AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKiCIkGUaW10vACExvjxLoztkNS8SK+xh+wiETFFqudbeb1hnUMcOJgsNc0WIqdRe9GkxdOHIar4wl7vmDHFNlpbPXUstLNgi0nDUuKElYCNpo6x9GSSbAVvXzIykky1TmF/B0FlFbd4QmFyOYkQ/rCHGB3G1Vk+nn+CmD2PkF5qHPV+w8oGxiBvgAAAA==[0m[Pipeline] }
+[8mha:////4HrlJ0QegO1R820Dv+833iS4AGg/wmmRH5GiJemQnG9LAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPMIRKWgQVVorDS8w8WGcWHfGdkgqXsTX+AMWkajYYrWzzbzesI4BThyM6JEGS7GzwrvR5CUmDsPV8SR6voiOKbJD0eLUssZmwZYTwpKihJWEDVLnOFoyCbayVw9VOUWmOqeQv6OE0uo7PKGQ2ZxUSF+YA+xuo45MP89fAczeJygPda59/QEQWYtwvgAAAA==[0m[Pipeline] // withEnv
+[8mha:////4Ftyf1Lw3hsN9BaFdg6BBG7uYfIeLWhe9ajWylk3NKx9AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKiCIkGUaW10vACExvjxLoztkNS8SK+xh+wiETFFqudbeb1hnUMcOJgsNc0WIqdRe9GkxdOHIar4wl7vmDHFNlpbPXUstLNgi0nDUuKElYCNpo6x9GSSbAVvXzIykky1TmF/B0FlFbd4QmFyOYkQ/rCHGB3G1Vk+nn+CmD2PkF52Oeq6w8P294ivgAAAA==[0m[Pipeline] }
+[8mha:////4EMeSsHxSOjTqaTKD7kizzfru1cT6hh1g6NYFBAOoZdmAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICEqJBqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFAe9rl22w8h29xIvgAAAA==[0m[Pipeline] // withEnv
+[8mha:////4Fnd8iJqXuK1kcVI0A5fhZSb+LOvY+RcNMB4TTr4WwEuAAAAox+LCAAAAAAAAP9tjTESgjAQRT84FraWHiI0auNY2WZoPEGEGAOZXUwWofJEXs07yMiMlb/67zXv9cYyRRw5OtVYaj2lyqsu9G56auDYXgMPquGLqpgSB6tKO5Rc29OMJYvFvCzHQmNlqQqcPDnBWjfmYYpgyBVniZM7aOS+vuOJTE9lMVG+MEZsbn2dmH6dvwGMXSfI9ztBtv0ATZSgB70AAAA=[0m[Pipeline] }
+[8mha:////4MQ4BtDYSj3l74CR5PwxzfMC0MmsnaZpKHLFWEOhTmjxAAAAox+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6IMJizGybVh8Qsq1Fpo3sP2IUx+kb/mP0gkcfJO95zlvN5Yp4gjR6daS52nVHvVh8HNT40cu2vgUbV8UTVT4mBVZceKG3tasGKxWJblWGlsLNWBkycn2OrWPEwRDLniLHF2B43cN3c8kem5LCbKF6aI3W1oEtOv8zeAqe8FeVkKsv0HPntk3r0AAAA=[0m[Pipeline] // node
+[8mha:////4IHYJM7rbumWJeS7S8RIdx5rrZw5dEo5R+/oRVuPUFQ1AAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKRKKBAVLRWGl5gEmOcWHfBvpBUvIiv8QciIlGx1c4083pjmSKOHJ1qLLWeUuVVF3o3PTVwbK+BB9XwRVVMiYNVpR1Kru1pxpLFYl6WY6GxslQFTp6cYK0b8zBFMOSKs8TJHTRyX9/xRKanspgoXxgjNre+Tky/zt8Axq4T5Lu9INt+ABhiA5S9AAAA[0m[Pipeline] End of Pipeline
+ERROR: Failed tests found in Playwright .last-run.json
+Finished: FAILURE
