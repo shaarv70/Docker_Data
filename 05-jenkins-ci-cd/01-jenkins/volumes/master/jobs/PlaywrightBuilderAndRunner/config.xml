@@ -1,8 +1,8 @@
 <?xml version='1.1' encoding='UTF-8'?>
-<flow-definition plugin="workflow-job@1400.v7fd111b_ec82f">
+<flow-definition plugin="workflow-job@1508.v9cb_c3a_a_89dfd">
   <actions>
-    <org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobAction plugin="pipeline-model-definition@2.2183.vb_36481468374"/>
-    <org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobPropertyTrackerAction plugin="pipeline-model-definition@2.2183.vb_36481468374">
+    <org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobAction plugin="pipeline-model-definition@2.2247.va_423189a_7dff"/>
+    <org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobPropertyTrackerAction plugin="pipeline-model-definition@2.2247.va_423189a_7dff">
       <jobProperties/>
       <triggers/>
       <parameters>
@@ -19,18 +19,20 @@
         <hudson.model.ChoiceParameterDefinition>
           <name>SERVICE</name>
           <description>Select the service to run</description>
-          <choices>
-            <string>RegressionChrome</string>
-            <string>SmokeChrome</string>
-            <string>RegressionFirefox</string>
-            <string>SmokeFirefox</string>
+          <choices class="java.util.Arrays$ArrayList">
+            <a class="string-array">
+              <string>RegressionChrome</string>
+              <string>SmokeChrome</string>
+              <string>RegressionFirefox</string>
+              <string>SmokeFirefox</string>
+            </a>
           </choices>
         </hudson.model.ChoiceParameterDefinition>
       </parameterDefinitions>
     </hudson.model.ParametersDefinitionProperty>
   </properties>
-  <definition class="org.jenkinsci.plugins.workflow.cps.CpsScmFlowDefinition" plugin="workflow-cps@3883.vb_3ff2a_e3eea_f">
-    <scm class="hudson.plugins.git.GitSCM" plugin="git@5.2.1">
+  <definition class="org.jenkinsci.plugins.workflow.cps.CpsScmFlowDefinition" plugin="workflow-cps@4050.v8b_a_69b_587c39">
+    <scm class="hudson.plugins.git.GitSCM" plugin="git@5.7.0">
       <configVersion>2</configVersion>
       <userRemoteConfigs>
         <hudson.plugins.git.UserRemoteConfig>

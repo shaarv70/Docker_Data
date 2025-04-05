@@ -1,22 +1,22 @@
-Apr 02, 2025 12:25:44 AM hudson.remoting.Launcher createEngine
+Apr 05, 2025 11:22:44 PM hudson.remoting.Launcher createEngine
 INFO: Setting up agent: Node1
-Apr 02, 2025 12:25:44 AM hudson.remoting.Engine startEngine
+Apr 05, 2025 11:22:44 PM hudson.remoting.Engine startEngine
 INFO: Using Remoting version: 3283.v92c105e0f819
-Apr 02, 2025 12:25:44 AM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+Apr 05, 2025 11:22:44 PM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
 INFO: Using C:\Users\arvin\IdeaProjects\Docker_Data\05-jenkins-ci-cd\01-jenkins\volumes\node\remoting as a remoting work directory
-Apr 02, 2025 12:25:44 AM hudson.remoting.Launcher$CuiListener status
+Apr 05, 2025 11:22:44 PM hudson.remoting.Launcher$CuiListener status
 INFO: WebSocket connection open
-Apr 02, 2025 12:25:44 AM hudson.remoting.Launcher$CuiListener status
+Apr 05, 2025 11:22:44 PM hudson.remoting.Launcher$CuiListener status
 INFO: Connected
-Apr 02, 2025 2:03:29 AM hudson.remoting.Launcher$CuiListener status
+Apr 06, 2025 2:33:49 AM hudson.remoting.Launcher$CuiListener status
 INFO: Read side closed
-Apr 02, 2025 2:03:29 AM hudson.remoting.Launcher$CuiListener status
+Apr 06, 2025 2:33:49 AM hudson.remoting.Launcher$CuiListener status
 INFO: Terminated
-Apr 02, 2025 2:03:29 AM hudson.remoting.Launcher$CuiListener status
+Apr 06, 2025 2:33:49 AM hudson.remoting.Launcher$CuiListener status
 INFO: Performing onReconnect operation.
-Apr 02, 2025 2:03:29 AM hudson.remoting.Launcher$CuiListener status
+Apr 06, 2025 2:33:49 AM hudson.remoting.Launcher$CuiListener status
 INFO: onReconnect operation completed.
-Apr 02, 2025 2:03:29 AM hudson.remoting.Launcher$CuiListener status
+Apr 06, 2025 2:33:49 AM hudson.remoting.Launcher$CuiListener status
 INFO: http://localhost:8080/login is not ready
 java.net.SocketException: Unexpected end of file from server
 	at java.base/sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:955)
@@ -31,9 +31,9 @@ java.net.SocketException: Unexpected end of file from server
 	at hudson.remoting.Engine.runWebSocket(Engine.java:786)
 	at hudson.remoting.Engine.run(Engine.java:541)
 
-Apr 02, 2025 2:03:29 AM hudson.remoting.Launcher$CuiListener status
+Apr 06, 2025 2:33:49 AM hudson.remoting.Launcher$CuiListener status
 INFO: Waiting 1 second before retry
-Apr 02, 2025 2:03:30 AM hudson.remoting.Launcher$CuiListener status
+Apr 06, 2025 2:33:50 AM hudson.remoting.Launcher$CuiListener status
 INFO: http://localhost:8080/login is not ready
 java.net.ConnectException: Connection refused: connect
 	at java.base/sun.nio.ch.Net.connect0(Native Method)
@@ -60,9 +60,9 @@ java.net.ConnectException: Connection refused: connect
 	at hudson.remoting.Engine.runWebSocket(Engine.java:786)
 	at hudson.remoting.Engine.run(Engine.java:541)
 
-Apr 02, 2025 2:03:30 AM hudson.remoting.Launcher$CuiListener status
+Apr 06, 2025 2:33:50 AM hudson.remoting.Launcher$CuiListener status
 INFO: Waiting 3 seconds before retry
-Apr 02, 2025 2:03:33 AM hudson.remoting.Launcher$CuiListener status
+Apr 06, 2025 2:33:53 AM hudson.remoting.Launcher$CuiListener status
 INFO: http://localhost:8080/login is not ready
 java.net.ConnectException: Connection refused: connect
 	at java.base/sun.nio.ch.Net.connect0(Native Method)
@@ -89,5 +89,5 @@ java.net.ConnectException: Connection refused: connect
 	at hudson.remoting.Engine.runWebSocket(Engine.java:786)
 	at hudson.remoting.Engine.run(Engine.java:541)
 
-Apr 02, 2025 2:03:33 AM hudson.remoting.Launcher$CuiListener status
+Apr 06, 2025 2:33:53 AM hudson.remoting.Launcher$CuiListener status
 INFO: Waiting 7 seconds before retry

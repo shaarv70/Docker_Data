@@ -2,6 +2,8 @@
 <hudson>
   <disabledAdministrativeMonitors>
     <string>jenkins.monitor.JavaVersionRecommendationAdminMonitor-17-2026-03-31-WARNING</string>
+    <string>hudson.util.DoubleLaunchChecker</string>
+    <string>jenkins.security.ResourceDomainRecommendation</string>
   </disabledAdministrativeMonitors>
   <version>2.492.2</version>
   <numExecutors>0</numExecutors>
@@ -22,6 +24,7 @@
   <viewsTabBar class="hudson.views.DefaultViewsTabBar"/>
   <myViewsTabBar class="hudson.views.DefaultMyViewsTabBar"/>
   <clouds/>
+  <quietPeriod>5</quietPeriod>
   <scmCheckoutRetryCount>0</scmCheckoutRetryCount>
   <views>
     <hudson.model.AllView>
@@ -39,6 +42,22 @@
     <excludeClientIPFromCrumb>false</excludeClientIPFromCrumb>
   </crumbIssuer>
   <nodeProperties/>
-  <globalNodeProperties/>
+  <globalNodeProperties>
+    <hudson.slaves.EnvironmentVariablesNodeProperty>
+      <envVars serialization="custom">
+        <unserializable-parents/>
+        <tree-map>
+          <default>
+            <comparator class="java.lang.String$CaseInsensitiveComparator"/>
+          </default>
+          <int>2</int>
+          <string>LANG</string>
+          <string>C.UTF-8</string>
+          <string>LC_ALL</string>
+          <string>C.UTF-8</string>
+        </tree-map>
+      </envVars>
+    </hudson.slaves.EnvironmentVariablesNodeProperty>
+  </globalNodeProperties>
   <nodeRenameMigrationNeeded>false</nodeRenameMigrationNeeded>
 </hudson>
